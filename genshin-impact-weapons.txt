@@ -1,0 +1,1547 @@
+[
+    {
+        "rating": 5,
+        "name": "Amos' Bow",
+        "image": "https://i.ibb.co/XSqdVSk/Amos-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Aquila Favonia",
+        "image": "https://i.ibb.co/TbrD70y/Aquila-Favonia.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Lost Prayer to the Sacred Winds ",
+        "image": "https://i.ibb.co/Cs2ZynW/Lost-Prayer-to-the-Sacred-Winds.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Primordial Jade Winged-Spear",
+        "image": "https://i.ibb.co/pdP5gNh/Primordial-Jade-Winged-Spear.webp",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Skyward Atlas",
+        "image": "https://i.ibb.co/Q88CrF0/Skyward-Atlas.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Skyward Blade",
+        "image": "https://i.ibb.co/PrMqwB4/Skyward-Blade.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Skyward Harp",
+        "image": "https://i.ibb.co/LZSWbvG/Skyward-Harp.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Skyward Pride",
+        "image": "https://i.ibb.co/N2cj1Pb/Skyward-Pride.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Skyward Spine",
+        "image": "https://i.ibb.co/Lv261sb/Skyward-Spine.webp",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Wolf's Gravestone",
+        "image": "https://i.ibb.co/L8dMtkT/Wolf-s-Gravestone.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Blackcliff Agate",
+        "image": "https://i.ibb.co/BL2ryS3/Blackcliff-Agate.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Blackcliff Longsword",
+        "image": "https://i.ibb.co/PwmC3fR/Blackcliff-Longsword.png",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Blackcliff Pole",
+        "image": "https://i.ibb.co/8zFtBxS/Blackcliff-Pole.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Blackcliff Slasher",
+        "image": "https://i.ibb.co/Zd1DwSQ/Blackcliff-Slasher.png",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Blackcliff Warbow",
+        "image": "https://i.ibb.co/T2qCCqF/Blackcliff-Warbow.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Compound Bow",
+        "image": "https://i.ibb.co/PQYwsP2/Compound-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Crescent Pike",
+        "image": "https://i.ibb.co/MCM9Y5s/Crescent-Pike.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Deathmatch",
+        "image": "https://i.ibb.co/55nYvvd/Deathmatch.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Dragon's Bane",
+        "image": "https://i.ibb.co/Wvj3Lb3/Dragon-s-Bane.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Eye of Perception",
+        "image": "https://i.ibb.co/KXNsxHx/Eye-of-Perception.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Favonius Codex",
+        "image": "https://i.ibb.co/MkybqQj/Favonius-Codex.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Favonius Greatsword",
+        "image": "https://i.ibb.co/VxqsLhr/Favonius-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Favonius Lance",
+        "image": "https://i.ibb.co/M95r45t/Favonius-Lance.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Favonius Sword",
+        "image": "https://i.ibb.co/Xkb0Sty/Favonius-Sword.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Favonius Warbow",
+        "image": "https://i.ibb.co/BHpcBbY/Favonius-Warbow.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Iron Sting",
+        "image": "https://i.ibb.co/hFvWh7q/Iron-Sting.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Lion's Roar",
+        "image": "https://i.ibb.co/bWRpGS3/Lion-s-Roar.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Mappa Mare",
+        "image": "https://i.ibb.co/j876rXD/Mappa-Mare.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prototype Amber",
+        "image": "https://i.ibb.co/SsfRc5F/Prototype-Amber.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prototype Archaic",
+        "image": "https://i.ibb.co/xzqmHq9/Prototype-Archaic.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prototype Crescent",
+        "image": "https://i.ibb.co/YBYr5GJ/Prototype-Crescent.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prototype Rancour",
+        "image": "https://i.ibb.co/j5Rqmvq/Prototype-Rancour.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prototype Starglitter",
+        "image": "https://i.ibb.co/3fCJy01/Prototype-Starglitter.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Rainslasher",
+        "image": "https://i.ibb.co/zRtQxw2/Rainslasher.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Royal Bow",
+        "image": "https://i.ibb.co/bJBrj0Y/Royal-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Royal Greatsword",
+        "image": "https://i.ibb.co/pWjqD6N/Royal-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Royal Grimoire",
+        "image": "https://i.ibb.co/fNdDLHp/Royal-Grimoire.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Royal Longsword",
+        "image": "https://i.ibb.co/5kB3DwW/Royal-Longsword.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Rust",
+        "image": "https://i.ibb.co/6mW57Yn/Rust.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sacrificial Bow",
+        "image": "https://i.ibb.co/0tTTn9F/Sacrificial-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sacrificial Fragments",
+        "image": "https://i.ibb.co/hFYCkGk/Sacrificial-Fragments.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sacrificial Greatsword",
+        "image": "https://i.ibb.co/0FSPVkL/Sacrificial-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sacrificial Sword",
+        "image": "https://i.ibb.co/68DvHhd/Sacrificial-Sword.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Serpent Spine",
+        "image": "https://i.ibb.co/S6sB2QN/Serpent-Spine.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Solar Pearl",
+        "image": "https://i.ibb.co/C1LFTDf/Solar-Pearl.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sword of Descension",
+        "image": "https://i.ibb.co/jRb6R8z/Sword-of-Descension.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "maxConstellation": 0
+    },
+    {
+        "rating": 4,
+        "name": "The Bell",
+        "image": "https://i.ibb.co/Tg2MpQb/The-Bell.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Black Sword",
+        "image": "https://i.ibb.co/vDvQSDj/The-Black-Sword.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Flute",
+        "image": "https://i.ibb.co/xSN7VtT/The-Flute.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Stringless",
+        "image": "https://i.ibb.co/NZpWhMR/The-Stringless.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Viridescent Hunt",
+        "image": "https://i.ibb.co/CmRzR61/The-Viridescent-Hunt.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Widsith",
+        "image": "https://i.ibb.co/5WcgjZS/The-Widsith.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Whiteblind",
+        "image": "https://i.ibb.co/DYGV0Ns/Whiteblind.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Black Tassel",
+        "image": "https://i.ibb.co/GVXQktB/Black-Tassel.webp",
+        "weapon": "Polearm",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Bloodtainted Greatsword",
+        "image": "https://i.ibb.co/m5BNHmC/Bloodtainted-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Cool Steel",
+        "image": "https://i.ibb.co/hcMNfPB/Cool-Steel.png",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Dark Iron Sword ",
+        "image": "https://i.ibb.co/qNdhcYm/Dark-Iron-Sword.png",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Debate Club ",
+        "image": "https://i.ibb.co/WzBJCLt/Debate-Club.webp",
+        "weapon": "Claymore",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Emerald Orb ",
+        "image": "https://i.ibb.co/zRX0sm4/Emerald-Orb.webp",
+        "weapon": "Catalyst",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Ferrous Shadow ",
+        "image": "https://i.ibb.co/4j7c2wL/Ferrous-Shadow.webp",
+        "weapon": "Claymore",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Fillet Blade ",
+        "image": "https://i.ibb.co/MgKKkb6/Fillet-Blade.webp",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Halberd",
+        "image": "https://i.ibb.co/j8R7QwK/Halberd.png",
+        "weapon": "Polearm",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Harbinger of Dawn ",
+        "image": "https://i.ibb.co/bXkDFj0/Harbinger-of-Dawn.webp",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Magic Guide",
+        "image": "https://i.ibb.co/MpZ1FSV/Magic-Guide.png",
+        "weapon": "Catalyst",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Messenger",
+        "image": "https://i.ibb.co/r7fMMV8/Messenger.png",
+        "weapon": "Bow",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Otherworldly Story",
+        "image": "https://i.ibb.co/BnkJ3gx/Otherworldly-Story.webp",
+        "weapon": "Catalyst",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Raven Bow",
+        "image": "https://i.ibb.co/QDZLHDS/Raven-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Recurve Bow",
+        "image": "https://i.ibb.co/JxRKMdB/Recurve-Bow.webp",
+        "weapon": "Bow",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Sharpshooter's Oath",
+        "image": "https://i.ibb.co/MnFK0Vx/Sharpshooter-s-Oath.webp",
+        "weapon": "Bow",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Skyrider Greatsword",
+        "image": "https://i.ibb.co/wMVFK2t/Skyrider-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Skyrider Sword",
+        "image": "https://i.ibb.co/wLxN2s5/Skyrider-Sword.png",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Slingshot",
+        "image": "https://i.ibb.co/PZxTQsx/Slingshot.webp",
+        "weapon": "Bow",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Thrilling Tales of Dragon Slayers",
+        "image": "https://i.ibb.co/nMdzFpB/Thrilling-Tales-of-Dragon-Slayers.webp",
+        "weapon": "Catalyst",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Traveler's Handy Sword",
+        "image": "https://i.ibb.co/JtPwdfk/Traveler-s-Handy-Sword.webp",
+        "weapon": "Sword",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "Twin Nephrite",
+        "image": "https://i.ibb.co/Dr9wwFs/Twin-Nephrite.webp",
+        "weapon": "Catalyst",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "White Iron Greatsword",
+        "image": "https://i.ibb.co/4jV5GZ0/White-Iron-Greatsword.webp",
+        "weapon": "Claymore",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 3,
+        "name": "White Tassel",
+        "image": "https://i.ibb.co/WFLCQ7s/White-Tassel.webp",
+        "weapon": "Polearm",
+        "bannerType": "standard",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Memory of Dust",
+        "image": "https://i.ibb.co/Z2x8pwJ/Memory-of-Dust.png",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "The Unforged",
+        "image": "https://i.ibb.co/ZWySyKG/The-Unforged.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Vortex Vanquisher",
+        "image": "https://i.ibb.co/dKp0kvz/Vortex-Vanquisher.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Royal Spear",
+        "image": "https://i.ibb.co/6m7QNtM/Royal-Spear.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Summit Shaper",
+        "image": "https://i.ibb.co/qD8L9zg/Summit-Shaper.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Dragonspine Spear",
+        "image": "https://i.ibb.co/qrRW61y/Dragonspine-Spear.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Festering Desire",
+        "image": "https://i.ibb.co/LgYjGpr/Festering-Desire.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Frostbearer",
+        "image": "https://i.ibb.co/g43ZL2S/Frostbearer.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Snow-Tombed Starsilver",
+        "image": "https://i.ibb.co/mTMhKWz/Snow-Tombed-Starsilver.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Primordial Jade Cutter",
+        "image": "https://i.ibb.co/mBJ0jv5/Primordial-Jade-Cutter.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Staff of Homa",
+        "image": "https://i.ibb.co/kHKC9w5/Staff-of-Homa.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Lithic Blade",
+        "image": "https://i.ibb.co/vv7gbXL/Lithic-Blade.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Lithic Spear",
+        "image": "https://i.ibb.co/8xJ1BfS/Lithic-Spear.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Elegy for the End",
+        "image": "https://i.ibb.co/N7KY0sL/Elegy-for-the-End.png",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Alley Hunter",
+        "image": "https://i.ibb.co/NNLxC1y/Alley-Hunter.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Alley Flash",
+        "image": "https://i.ibb.co/tx73PYM/The-Alley-Flash.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Windblume Ode",
+        "image": "https://i.ibb.co/cb5MF3Y/Windblume-Ode.png",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Wine and Song",
+        "image": "https://i.ibb.co/CmNS8PN/Wine-and-Song.png",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Song of Broken Pines",
+        "image": "https://i.ibb.co/MkQkrmw/Song-of-Broken-Pines.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Freedom-Sworn",
+        "image": "https://i.ibb.co/C9GkygH/Freedom-Sworn.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Dodoco Tales",
+        "image": "https://i.ibb.co/4s7Cf7z/Dodoco-Tales.png",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Mitternachts Waltz",
+        "image": "https://i.ibb.co/sRdv0Lr/Mitternachts-Waltz.png",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Thundering Pulse",
+        "image": "https://i.ibb.co/fXRT992/Thundering-Pulse.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Mistsplitter Reforged",
+        "image": "https://i.ibb.co/XpGkzdM/Mistsplitter-Reforged.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Hamayumi",
+        "image": "https://i.ibb.co/wsrv93c/Hamayumi.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Amenoma Kageuchi",
+        "image": "https://i.ibb.co/0X5tB4m/Amenoma-Kageuchi.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Kitain Cross Spear",
+        "image": "https://i.ibb.co/CMNWvxw/Kitain-Cross-Spear.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Katsuragikiri Nagamasa",
+        "image": "https://i.ibb.co/djDXDFz/Katsuragikiri-Nagamasa.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Hakushin Ring",
+        "image": "https://i.ibb.co/YZ5JCcm/Hakushin-Ring.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Engulfing Lightning",
+        "image": "https://i.ibb.co/Y2VhDJ1/Engulfing-Lightning.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Everlasting Moonglow",
+        "image": "https://i.ibb.co/LvY0hNy/Everlasting-Moonglow.png",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Catch",
+        "image": "https://i.ibb.co/BZcz1bt/The-Catch.png",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Luxurious Sea-Lord",
+        "image": "https://i.ibb.co/x27kMwY/Luxurious-Sea-Lord.png",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Predator",
+        "image": "https://i.ibb.co/fXgZrWT/Predator.png",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "maxConstellation": 0
+    },
+    {
+        "rating": 5,
+        "name": "Polar Star",
+        "image": "https://i.ibb.co/sFrhkWJ/Polar-Star.png",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Akuoumaru",
+        "image": "https://i.ibb.co/Wc3Pvrq/Akuoumaru.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Mouun's Moon",
+        "image": "https://i.ibb.co/fYhSY6z/Mouun-s-Moon.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Wavebreaker's Fin",
+        "image": "https://i.ibb.co/S3ZRp7T/Wavebreaker-s-Fin.webp",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Redhorn Stonethresher",
+        "image": "https://i.ibb.co/KmYdMQP/Redhorn-Stonethresher.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Cinnabar Spindle",
+        "image": "https://i.ibb.co/DCjp2WD/Cinnabar-Spindle.png",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Calamity Queller",
+        "image": "https://i.ibb.co/g76MSZM/Calamity-Queller.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Kagura's Verity",
+        "image": "https://i.ibb.co/26Xhp2P/Kagura-s-Verity.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Oathsworn Eye",
+        "image": "https://i.ibb.co/hYQshbH/Oathsworn-Eye.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Haran Geppaku Futsu",
+        "image": "https://i.ibb.co/WWMZ6bh/Haran-Geppaku-Futsu.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Aqua Simulacra",
+        "image": "https://i.ibb.co/9tSq0q3/Aqua-Simulacra.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Fading Twilight",
+        "image": "https://i.ibb.co/RP6XHsH/Fading-Twilight.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Kagotsurube Isshin",
+        "image": "https://i.ibb.co/9wXxyt5/Kagotsurube-Isshin.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "maxConstellation": 0
+    },
+    {
+        "rating": 5,
+        "name": "Hunter's Path",
+        "image": "https://i.ibb.co/vYYx5xN/Hunter-s-Path.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "End of the Line",
+        "image": "https://i.ibb.co/nDHCF2m/End-of-the-Line.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Forest Regalia",
+        "image": "https://i.ibb.co/x2hdQnC/Forest-Regalia.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Fruit of Fulfillment",
+        "image": "https://i.ibb.co/fxL2V6c/Fruit-of-Fulfillment.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "King's Squire",
+        "image": "https://i.ibb.co/thWq36n/King-s-Squire.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Moonpiercer",
+        "image": "https://i.ibb.co/NL8FrCf/Moonpiercer.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sapwood Blade",
+        "image": "https://i.ibb.co/3WhJty1/Sapwood-Blade.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Key of Khaj-Nisut",
+        "image": "https://i.ibb.co/5s46VpS/Key-of-Khaj-Nisut.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Staff of the Scarlet Sands",
+        "image": "https://i.ibb.co/j6WqzF1/Staff-of-the-Scarlet-Sands.webp",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Xiphos' Moonlight",
+        "image": "https://i.ibb.co/JpfTp1S/Xiphos-Moonlight.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Makhaira Aquamarine",
+        "image": "https://i.ibb.co/C7VFpy9/Makhaira-Aquamarine.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Wandering Evenstar",
+        "image": "https://i.ibb.co/vzFMXQ3/Wandering-Evenstar.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Missive Windspear",
+        "image": "https://i.ibb.co/h8XYCj4/Missive-Windspear.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "A Thousand Floating Dreams",
+        "image": "https://i.ibb.co/z2p7cF6/A-Thousand-Floating-Dreams.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Tulaytullah's Remembrance",
+        "image": "https://i.ibb.co/fd4Yr4Y/Tulaytullah-s-Remembrance.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Toukabou Shigure",
+        "image": "https://i.ibb.co/mTHDTs9/Toukabou-Shigure.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Light of Foliar Incision",
+        "image": "https://i.ibb.co/6rPqYR4/Light-of-Foliar-Incision.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Beacon of the Reed Sea",
+        "image": "https://i.ibb.co/7bW8Q1b/Beacon-of-the-Reed-Sea.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Mailed Flower",
+        "image": "https://i.ibb.co/x1zKSnF/Mailed-Flower.png",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Jadefall's Splendor",
+        "image": "https://i.ibb.co/ZH5Nw47/Jadefall-s-Splendor.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Ibis Piercer",
+        "image": "https://i.ibb.co/31xPCR2/Ibis-Piercer.png",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "The First Great Magic",
+        "image": "https://i.ibb.co/2hV7L6R/The-First-Great-Magic.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Song of Stillness",
+        "image": "https://i.ibb.co/71wDFK5/Song-of-Stillness.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Finale of the Deep",
+        "image": "https://i.ibb.co/gVJckbH/Finale-of-the-Deep.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Tidal Shadow",
+        "image": "https://i.ibb.co/rwn9D0s/Tidal-Shadow.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Rightful Reward",
+        "image": "https://i.ibb.co/YBm6zTj/Rightful-Reward.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Flowing Purity",
+        "image": "https://i.ibb.co/2805B5m/Flowing-Purity.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Scion of the Blazing Sun",
+        "image": "https://i.ibb.co/3pz2pD8/Scion-of-the-Blazing-Sun.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Wolf-Fang",
+        "image": "https://i.ibb.co/njh7XQ8/Wolf-Fang.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Talking Stick",
+        "image": "https://i.ibb.co/b146v7g/Talking-Stick.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Ballad of the Fjords",
+        "image": "https://i.ibb.co/ZMZMW1S/Ballad-of-the-Fjords.webp",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sacrificial Jade",
+        "image": "https://i.ibb.co/gzYR2Ns/Sacrificial-Jade.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Fleuve Cendre Ferryman",
+        "image": "https://i.ibb.co/PzmCD7w/Fleuve-Cendre-Ferryman.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Tome of the Eternal Flow",
+        "image": "https://i.ibb.co/BjR5QCf/Tome-of-the-Eternal-Flow.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Cashflow Supervision",
+        "image": "https://i.ibb.co/1YC3KBg/Cashflow-Supervision.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "The Dockhand's Assistant",
+        "image": "https://i.ibb.co/jZpS78k/The-Dockhand-s-Assistant.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Portable Power Saw",
+        "image": "https://i.ibb.co/3MBD3z4/Portable-Power-Saw.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Prospector's Drill",
+        "image": "https://i.ibb.co/YhBxSSs/Prospector-s-Drill.webp",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Range Gauge",
+        "image": "https://i.ibb.co/ggpnYg4/Range-Gauge.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Ballad of the Boundless Blue",
+        "image": "https://i.ibb.co/p2HtqZ9/Ballad-of-the-Boundless-Blue.webp",
+        "weapon": "Catalyst",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Splendor of Tranquil Waters",
+        "image": "https://i.ibb.co/Wtm2Qnc/Splendor-of-Tranquil-Waters.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Sword of Narzissenkreuz",
+        "image": "https://i.ibb.co/jyGr0TB/Sword-of-Narzissenkreuz.webp",
+        "weapon": "Sword",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Verdict",
+        "image": "https://i.ibb.co/4Y294PX/Verdict.webp",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Ultimate Overlord's Mega Magic Sword",
+        "image": "https://i.ibb.co/5vd69DN/Ultimate-Overlord-s-Mega-Magic-Sword.webp",
+        "weapon": "Claymore",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Crane's Echoing Call",
+        "image": "https://i.ibb.co/cvPXrwJ/Crane-s-Echoing-Call.webp",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Uraku Misugiri",
+        "image": "https://i.ibb.co/wBx89Df/Uraku-Misugiri.webp",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 4,
+        "name": "Dialogues of the Desert Sages",
+        "image": "https://i.ibb.co/CBVMz2Y/Dialogues-of-the-Desert-Sages.png",
+        "weapon": "Polearm",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "rating": 5,
+        "name": "Crimson Moon's Semblance",
+        "image": "https://i.ibb.co/BnYCr0s/Crimson-Moon-s-Semblance.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    }
+]
