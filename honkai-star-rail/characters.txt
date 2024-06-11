@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "rating": 4,
+        "name": "Amber",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": 0,
+        "weapon": "Bow",
+        "region": "Mondstadt",
+        "modelType": "Medium Female",
+        "birthDay": "2024-08-09T23:00:00.000Z",
+        "bannerType": "standard"
+    },
+    {
+        "id": 2,
+        "rating": 4,
+        "name": "Barbara",
+        "image": "https://i.ibb.co/Mh2dQNJ/barbara.png",
+        "element": 1,
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "modelType": "Medium Female",
+        "birthDay": "2024-07-04T23:00:00.000Z",
+        "bannerType": "standard"
+          }
+]
