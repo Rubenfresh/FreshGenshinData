@@ -2,7 +2,7 @@
     {
         "id": 1,
         "rating": 4,
-        "name": "Amber",
+        "name": "Lynx",
         "image": "https://i.ibb.co/124bfh0/amber.png",
         "element": 0,
         "weapon": "Abundance",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "rating": 4,
-        "name": "Barbara",
+        "name": "Lynx",
         "image": "https://i.ibb.co/Mh2dQNJ/barbara.png",
         "element": 1,
         "weapon": "Abundance",
