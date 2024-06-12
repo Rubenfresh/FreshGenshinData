@@ -1725,5 +1725,15 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {    
+        "id": 174.1,
+        "rating": 4,
+        "name": "Cloudforged",
+        "image": "https://i.ibb.co/HXSS0t7/Cloudforged.webp",
+        "weapon": "Bow",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
