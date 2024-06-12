@@ -965,7 +965,7 @@
         "rating": 4,
         "name": "Sethos",
         "element": 3,
-        "image": "https://i.ibb.co/FX7bX5P/sethos.webp",
+        "image": "https://i.ibb.co/DLTwQ57/sethos.png",
         "weapon": "Bow",
         "region": "Sumeru",
         "modelType": "Medium Male",
