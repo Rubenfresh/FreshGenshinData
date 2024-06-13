@@ -169,7 +169,7 @@
     "image": "https://i.ibb.co/124bfh0/amber.png",
     "element": "Lightning",
     "weapon": "Erudition",
-    "bannerType": "standard"
+    "bannerType": "limited"
   },
   {
     "id": 20,
@@ -178,7 +178,7 @@
     "image": "https://i.ibb.co/124bfh0/amber.png",
     "element": "Quantum",
     "weapon": "The Hunt",
-    "bannerType": "standard"
+    "bannerType": "limited"
   },
   {
     "id": 21,
