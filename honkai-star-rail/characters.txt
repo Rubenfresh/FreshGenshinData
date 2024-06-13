@@ -58,7 +58,7 @@
     "id": 7,
     "rating": 4,
     "name": "Natasha",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/zsP6DyW/Natasha.webp",
     "element": "Physical",
     "weapon": "Abundance",
     "bannerType": "standard"
@@ -67,7 +67,7 @@
     "id": 8,
     "rating": 4,
     "name": "Pela",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/x6y9KtX/Pela.webp",
     "element": "Ice",
     "weapon": "Nihility",
     "bannerType": "standard"
@@ -76,7 +76,7 @@
     "id": 9,
     "rating": 4,
     "name": "Qingque",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/2Z8tJgS/Qingque.webp",
     "element": "Quantum",
     "weapon": "Erudition",
     "bannerType": "standard"
@@ -85,7 +85,7 @@
     "id": 10,
     "rating": 4,
     "name": "Sampo",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/FgDb9hJ/Sampo.webp",
     "element": "Wind",
     "weapon": "Nihility",
     "bannerType": "standard"
@@ -94,7 +94,7 @@
     "id": 11,
     "rating": 4,
     "name": "Serval",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/xFDwFdB/Serval.webp",
     "element": "Lightning",
     "weapon": "Erudition",
     "bannerType": "standard"
@@ -103,7 +103,7 @@
     "id": 12,
     "rating": 4,
     "name": "Sushang",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/0Yy7hsG/Sushang.webp",
     "element": "Physical",
     "weapon": "The Hunt",
     "bannerType": "standard"
@@ -112,7 +112,7 @@
     "id": 13,
     "rating": 4,
     "name": "Tingyun",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/NpD0WYq/Tingyun.webp",
     "element": "Lightning",
     "weapon": "Harmony",
     "bannerType": "standard"
@@ -121,7 +121,7 @@
     "id": 14,
     "rating": 5,
     "name": "Bailu",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/fvzJ796/Bailu.webp",
     "element": "Lightning",
     "weapon": "Abundance",
     "bannerType": "standard"
@@ -130,7 +130,7 @@
     "id": 15,
     "rating": 5,
     "name": "Bronya",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/WGSyWmZ/Bronya.png",
     "element": "Wind",
     "weapon": "Harmony",
     "bannerType": "standard"
@@ -139,7 +139,7 @@
     "id": 16,
     "rating": 5,
     "name": "Clara",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/cyCWjQQ/Clara.webp",
     "element": "Physical",
     "weapon": "Destruction",
     "bannerType": "standard"
@@ -148,7 +148,7 @@
     "id": 17,
     "rating": 5,
     "name": "Gepard",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/HpgyF7F/Gepard.webp",
     "element": "Ice",
     "weapon": "Preservation",
     "bannerType": "standard"
@@ -157,7 +157,7 @@
     "id": 18,
     "rating": 5,
     "name": "Himeko",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/TR1ZjbL/Himeko.webp",
     "element": "Fire",
     "weapon": "Erudition",
     "bannerType": "standard"
@@ -175,7 +175,7 @@
     "id": 20,
     "rating": 5,
     "name": "Seele",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/b2kx9dT/Seele.webp",
     "element": "Quantum",
     "weapon": "The Hunt",
     "bannerType": "limited"
@@ -184,7 +184,7 @@
     "id": 21,
     "rating": 5,
     "name": "Welt",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/wdvYvrn/Welt.webp",
     "element": "Imaginary",
     "weapon": "Nihility",
     "bannerType": "standard"
@@ -193,7 +193,7 @@
     "id": 22,
     "rating": 5,
     "name": "Yanqing",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/HGHkw7S/Yanqing.webp",
     "element": "Ice",
     "weapon": "The Hunt",
     "bannerType": "standard"
