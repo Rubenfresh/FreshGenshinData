@@ -49,7 +49,7 @@
     "id": 6,
     "rating": 4,
     "name": "March 7th",
-    "image": "https://i.ibb.co/WWbY22n/March-7th-Sticker-07.webp",
+    "image": "https://i.ibb.co/Ld3S35y/March-7th.webp",
     "element": "Ice",
     "weapon": "Preservation",
     "bannerType": "standard"
@@ -166,7 +166,7 @@
     "id": 19,
     "rating": 5,
     "name": "Jing Yuan",
-    "image": "https://i.ibb.co/BLBYHVh/Jing-Yuan-Sticker-01.webp",
+    "image": "https://i.ibb.co/BLBYHVh/Jing-Yuan-Sticker.webp",
     "element": "Lightning",
     "weapon": "Erudition",
     "bannerType": "limited"
