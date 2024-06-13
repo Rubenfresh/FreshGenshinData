@@ -3,7 +3,7 @@
     "id": 1,
     "rating": 4,
     "name": "Arlan",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/j3FNQc6/Arlan.webp",
     "element": "Lightning",
     "weapon": "Destruction",
     "modelType": "Medium Male",
@@ -13,7 +13,7 @@
     "id": 2,
     "rating": 4,
     "name": "Asta",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/Dp52zd8/Asta.webp",
     "element": "Fire",
     "weapon": "Harmony",
     "bannerType": "standard"
@@ -22,7 +22,7 @@
     "id": 3,
     "rating": 4,
     "name": "Dan Heng",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/7jJr8TJ/Dan-Heng.webp",
     "element": "Wind",
     "weapon": "The Hunt",
     "bannerType": "standard"
@@ -31,7 +31,7 @@
     "id": 4,
     "rating": 4,
     "name": "Herta",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/NVPPcv3/Herta.webp",
     "element": "Ice",
     "weapon": "Erudition",
     "bannerType": "standard"
@@ -40,7 +40,7 @@
     "id": 5,
     "rating": 4,
     "name": "Hook",
-    "image": "https://i.ibb.co/124bfh0/amber.png",
+    "image": "https://i.ibb.co/H242NgX/Hook.webp",
     "element": "Fire",
     "weapon": "Destruction",
     "bannerType": "standard"
