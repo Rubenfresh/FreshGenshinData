@@ -2,25 +2,200 @@
     {
         "id": 1,
         "rating": 4,
-        "name": "Lynx",
+        "name": "Arlan",
         "image": "https://i.ibb.co/124bfh0/amber.png",
-        "element": 0,
-        "weapon": "Abundance",
-        "region": "Jarilo-VI",
-        "modelType": "Medium Female",
-        "birthDay": "2024-08-09T23:00:00.000Z",
+        "element": "Lightning",
+        "weapon": "Destruction",
+        "modelType": "Medium Male",
         "bannerType": "standard"
     },
     {
         "id": 2,
         "rating": 4,
-        "name": "Lynx",
-        "image": "https://i.ibb.co/Mh2dQNJ/barbara.png",
-        "element": 1,
-        "weapon": "Abundance",
-        "region": "Jarilo-VI",
-        "modelType": "Medium Female",
-        "birthDay": "2024-07-04T23:00:00.000Z",
+        "name": "Asta",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Fire",
+        "weapon": "Harmony",
         "bannerType": "standard"
-      }
+    },
+    {
+        "id": 3,
+        "rating": 4,
+        "name": "Dan Heng",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Wind",
+        "weapon": "The Hunt",
+        "bannerType": "standard"
+    },
+    {
+        "id": 4,
+        "rating": 4,
+        "name": "Herta",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Ice",
+        "weapon": "Erudition",
+        "bannerType": "standard"
+    },
+    {
+        "id": 5,
+        "rating": 4,
+        "name": "Hook",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Fire",
+        "weapon": "Destruction",
+        "bannerType": "standard"
+    },
+    {
+        "id": 6,
+        "rating": 4,
+        "name": "March 7th",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Ice",
+        "weapon": "Preservation",
+        "bannerType": "standard"
+    },
+    {
+        "id": 7,
+        "rating": 4,
+        "name": "Natasha",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Physical",
+        "weapon": "Abundance",
+        "bannerType": "standard"
+    },
+    {
+        "id": 8,
+        "rating": 4,
+        "name": "Pela",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Ice",
+        "weapon": "Nihility",
+        "bannerType": "standard"
+    },
+    {
+        "id": 9,
+        "rating": 4,
+        "name": "Qingque",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Quantum",
+        "weapon": "Erudition",
+        "bannerType": "standard"
+    },
+    {
+        "id": 10,
+        "rating": 4,
+        "name": "Sampo",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Wind",
+        "weapon": "Nihility",
+        "bannerType": "standard"
+    },
+    {
+        "id": 11,
+        "rating": 4,
+        "name": "Serval",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Lightning",
+        "weapon": "Erudition",
+        "bannerType": "standard"
+    },
+    {
+        "id": 12,
+        "rating": 4,
+        "name": "Sushang",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Physical",
+        "weapon": "The Hunt",
+        "bannerType": "standard"
+    },
+    {
+        "id":13,
+        "rating": 4,
+        "name": "Tingyun",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Lightning",
+        "weapon": "Harmony",
+        "bannerType": "standard"
+    },
+    {
+        "id":14,
+        "rating": 5,
+        "name": "Bailu",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Lightning",
+        "weapon": "Abundance",
+        "bannerType": "standard"
+    },
+    {
+        "id":15,
+        "rating": 5,
+        "name": "Bronya",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Wind",
+        "weapon": "Harmony",
+        "bannerType": "standard"
+    },
+    {
+        "id":16,
+        "rating": 5,
+        "name": "Clara",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Physical",
+        "weapon": "Destruction",
+        "bannerType": "standard"
+    },
+    {
+        "id":17,
+        "rating": 5,
+        "name": "Gepard",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Ice",
+        "weapon": "Preservation",
+        "bannerType": "standard"
+    },
+    {
+        "id":18,
+        "rating": 5,
+        "name": "Himeko",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Fire",
+        "weapon": "Erudition",
+        "bannerType": "standard"
+    },
+    {
+        "id":19,
+        "rating": 5,
+        "name": "Jing Yuan",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Lightning",
+        "weapon": "Erudition",
+        "bannerType": "standard"
+    },
+    {
+        "id":20,
+        "rating": 5,
+        "name": "Seele",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Quantum",
+        "weapon": "The Hunt",
+        "bannerType": "standard"
+    },
+    {
+        "id":21,
+        "rating": 5,
+        "name": "Welt",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Imaginary",
+        "weapon": "Nihility",
+        "bannerType": "standard"
+    },
+    {
+        "id":22,
+        "rating": 5,
+        "name": "Yanqing",
+        "image": "https://i.ibb.co/124bfh0/amber.png",
+        "element": "Ice",
+        "weapon": "The Hunt",
+        "bannerType": "standard"
+    }
 ]
