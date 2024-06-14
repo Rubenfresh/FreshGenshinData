@@ -965,7 +965,7 @@
         "name": "On the Fall of an Aeon",
         "image": "https://i.ibb.co/ysNpTtq/on-the-fall-of-an-aeon-preview-9209464.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -975,7 +975,7 @@
         "name": "Cruising in the Stellar Sea",
         "image": "https://i.ibb.co/0sYx41n/cruising-in-the-stellar-sea-preview-687481.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -985,7 +985,7 @@
         "name": "Texture of Memories",
         "image": "https://i.ibb.co/CQ19B2N/texture-of-memories-preview-2192757.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -995,7 +995,7 @@
         "name": "Solitary Healing",
         "image": "https://i.ibb.co/6JMxGg1/solitary-healing-preview-3321824.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
