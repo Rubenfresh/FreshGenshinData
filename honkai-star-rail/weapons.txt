@@ -425,7 +425,7 @@
         "name": "Quid Pro Quo",
         "image": "https://i.ibb.co/1G1k9k0/quid-pro-quo-preview-3338529.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -435,7 +435,7 @@
         "name": "Fermata",
         "image": "https://i.ibb.co/PT9z9Xg/fermata-preview-3742444.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -445,7 +445,7 @@
         "name": "We Are Wildfire",
         "image": "https://i.ibb.co/vdLWpLX/we-are-wildfire-preview-6196012.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -455,7 +455,7 @@
         "name": "River Flows in Spring",
         "image": "https://i.ibb.co/M1ht9bP/river-flows-in-spring-preview-3769126.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -465,7 +465,7 @@
         "name": "Past and Future",
         "image": "https://i.ibb.co/6WrLPN1/past-and-future-preview-6510353.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -475,7 +475,7 @@
         "name": "Woof! Walk Time!",
         "image": "https://i.ibb.co/tzzyz0c/woof-walk-time-preview-8003568.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -485,7 +485,7 @@
         "name": "The Seriousness of Breakfast",
         "image": "https://i.ibb.co/Nyn52nc/the-seriousness-of-breakfast-preview-2628803.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -495,7 +495,7 @@
         "name": "Warmth Shortens Cold Nights",
         "image": "https://i.ibb.co/7CmL6QS/warmth-shortens-cold-nights-preview-4003270.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -505,7 +505,7 @@
         "name": "We Will Meet Again",
         "image": "https://i.ibb.co/3MVdBDG/we-will-meet-again-preview-3903563.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -515,7 +515,7 @@
         "name": "This Is Me!",
         "image": "https://i.ibb.co/ypMSk7j/this-is-me-preview-5862653.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -525,7 +525,7 @@
         "name": "Return to Darkness",
         "image": "https://i.ibb.co/CQf2n6x/return-to-darkness-preview-5109462.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -535,7 +535,7 @@
         "name": "Carve the Moon, Weave the Clouds",
         "image": "https://i.ibb.co/rdZwQPS/carve-the-moon-weave-the-clouds-preview-5153010.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -545,7 +545,7 @@
         "name": "Nowhere to Run",
         "image": "https://i.ibb.co/xGPRdZy/nowhere-to-run-preview-4836920.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -555,7 +555,7 @@
         "name": "Today Is Another Peaceful Day",
         "image": "https://i.ibb.co/F4Xgmvw/today-is-another-peaceful-day-preview-483756.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -565,7 +565,7 @@
         "name": "What Is Real?",
         "image": "https://i.ibb.co/sVBdZLq/what-is-real-preview-8778164.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -575,7 +575,7 @@
         "name": "Dreamville Adventure",
         "image": "https://i.ibb.co/zb837NY/dreamville-adventure-preview-8222733.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -585,7 +585,7 @@
         "name": "Final Victor",
         "image": "https://i.ibb.co/qBZMqSj/final-victor-preview-2951342.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -595,7 +595,7 @@
         "name": "Flames Afar",
         "image": "https://i.ibb.co/XpJ0fjf/flames-afar-preview-4992014.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -605,7 +605,7 @@
         "name": "Destiny's Threads Forewoven",
         "image": "https://i.ibb.co/Jd3VhJ5/destinys-threads-forewoven-preview-9906609.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -615,7 +615,7 @@
         "name": "The Day The Cosmos Fell",
         "image": "https://i.ibb.co/BzHmVSN/the-day-the-cosmos-fell-preview-7959009.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -625,7 +625,7 @@
         "name": "It's Showtime",
         "image": "https://i.ibb.co/CwtF21p/its-showtime-preview-8232539.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -665,7 +665,7 @@
         "name": "Before the Tutorial Mission Starts",
         "image": "https://i.ibb.co/1qW9zYb/before-the-tutorial-mission-starts-preview-8222785.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -675,7 +675,7 @@
         "name": "Hey, Over Here",
         "image": "https://i.ibb.co/wzW4WWd/hey-over-here-preview-7270862.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
     },
