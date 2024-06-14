@@ -431,5 +431,23 @@
     "element": "Physical",
     "weapon": "The Hunt",
     "bannerType": "limited"
+  },
+  {
+    "id": 49,
+    "rating": 5,
+    "name": "Firefly",
+    "image": "https://i.ibb.co/4fxsz40/firefly-character-shop-icon.webp",
+    "element": "Fire",
+    "weapon": "Destruction",
+    "bannerType": "limited"
+  },
+  {
+    "id": 50,
+    "rating": 5,
+    "name": "Jade",
+    "image": "https://i.ibb.co/9c8WVZB/jade-character-shop-icon.webp",
+    "element": "Quantum",
+    "weapon": "Erudition",
+    "bannerType": "limited"
   }
 ]
