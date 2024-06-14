@@ -998,5 +998,45 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {
+        "id": 101.1,
+        "rating": 5,
+        "name": "Eternal Calculus",
+        "image": "https://i.ibb.co/tLzzfFy/eternal-calculus-item-icon-figure.webp",
+        "weapon": "Erudition",
+        "bannerType": "noBanner",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 102.1,
+        "rating": 5,
+        "name": "Whereabouts Should Dreams Rest",
+        "image": "https://i.ibb.co/zZfQqWs/whereabouts-should-dreams-rest-item-icon-figure.webp",
+        "weapon": "Destruction",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 103.1,
+        "rating": 5,
+        "name": "Yet Hope Is Priceless",
+        "image": "https://i.ibb.co/WpdQ0Fm/yet-hope-is-priceless-item-icon-thumbnail-medium.webp",
+        "weapon": "Erudition",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 104.1,
+        "rating": 4,
+        "name": "After the Charmony Fall",
+        "image": "https://i.ibb.co/26nyHQH/after-the-charmony-fall-item-icon-thumbnail-medium.webp",
+        "weapon": "Erudition",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
