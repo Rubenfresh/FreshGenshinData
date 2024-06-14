@@ -5,7 +5,7 @@
         "name": "Arrows",
         "image": "https://i.ibb.co/x2k59hG/arrows-preview-4639344.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -15,7 +15,7 @@
         "name": "Cornucopia",
         "image": "https://i.ibb.co/bd61rWP/cornucopia-preview-8213983.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -25,7 +25,7 @@
         "name": "Collapsing Sky",
         "image": "https://i.ibb.co/qs8SVKP/collapsing-sky-preview-8262620.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -35,7 +35,7 @@
         "name": "Amber",
         "image": "https://i.ibb.co/0q8JDy2/amber-preview-7370494.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -45,7 +45,7 @@
         "name": "Void",
         "image": "https://i.ibb.co/0mVTfJj/void-preview-4327234.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -55,7 +55,7 @@
         "name": "Chorus",
         "image": "https://i.ibb.co/PhVwKkF/chorus-preview-5344640.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -65,7 +65,7 @@
         "name": "Data Bank",
         "image": "https://i.ibb.co/qBx9NY3/data-bank-preview-9232598.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -75,7 +75,7 @@
         "name": "Darting Arrow",
         "image": "https://i.ibb.co/Km9r4Lz/darting-arrow-preview-8199953.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -85,7 +85,7 @@
         "name": "Fine Fruit",
         "image": "https://i.ibb.co/YB0F9bn/fine-fruit-preview-7468694.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -95,7 +95,7 @@
         "name": "Shattered Home",
         "image": "https://i.ibb.co/1M61wP8/shattered-home-preview-6664533.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -105,7 +105,7 @@
         "name": "Defense",
         "image": "https://i.ibb.co/y0JB97G/defense-preview-4783487.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -115,7 +115,7 @@
         "name": "Loop",
         "image": "https://i.ibb.co/3fqb1Km/loop-preview-1217626.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -125,7 +125,7 @@
         "name": "Meshing Cogs",
         "image": "https://i.ibb.co/ZKWWHGy/meshing-cogs-preview-3823713.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -135,7 +135,7 @@
         "name": "Passkey",
         "image": "https://i.ibb.co/sKGrK9N/passkey-preview-3615925.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -145,7 +145,7 @@
         "name": "Adversarial",
         "image": "https://i.ibb.co/K27WwNL/adversarial-preview-6265896.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -155,7 +155,7 @@
         "name": "Multiplication",
         "image": "https://i.ibb.co/DL5rX7r/multiplication-preview-3726837.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -165,7 +165,7 @@
         "name": "Mutual Demise",
         "image": "https://i.ibb.co/cNJw9Sv/mutual-demise-preview-4841743.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -175,7 +175,7 @@
         "name": "Pioneering",
         "image": "https://i.ibb.co/2nSYwkj/pioneering-preview-9100394.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -185,7 +185,7 @@
         "name": "Hidden Shadow",
         "image": "https://i.ibb.co/Xz4M4kD/hidden-shadow-preview-707259.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -195,7 +195,7 @@
         "name": "Mediation",
         "image": "https://i.ibb.co/D7X6wzR/mediation-preview-9228653.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -205,7 +205,7 @@
         "name": "Sagacity",
         "image": "https://i.ibb.co/s1TQYbJ/sagacity-preview-4960367.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -215,7 +215,7 @@
         "name": "Post-Op Conversation",
         "image": "https://i.ibb.co/5BRbYvT/postop-conversation-preview-6898948.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -225,7 +225,7 @@
         "name": "Good Night and Sleep Well",
         "image": "https://i.ibb.co/ZM1KTbs/good-night-and-sleep-well-preview-7048112.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -235,7 +235,7 @@
         "name": "Day One of My New Life",
         "image": "https://i.ibb.co/3TBwJFH/day-one-of-my-new-life-preview-70412.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -245,7 +245,7 @@
         "name": "Only Silence Remains",
         "image": "https://i.ibb.co/rGW9mnj/only-silence-remains-preview-6022602.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -255,7 +255,7 @@
         "name": "Memories of the Past",
         "image": "https://i.ibb.co/p2FxCHm/memories-of-the-past-preview-341056.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -265,7 +265,7 @@
         "name": "The Moles Welcome You",
         "image": "https://i.ibb.co/Fg2kHDS/the-moles-welcome-you-preview-9420753.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -275,7 +275,7 @@
         "name": "The Birth of the Self",
         "image": "https://i.ibb.co/bmcyfVJ/the-birth-of-the-self-preview-9866125.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -285,7 +285,7 @@
         "name": "Shared Feeling",
         "image": "https://i.ibb.co/3S5QrPf/shared-feeling-preview-7618097.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -295,7 +295,7 @@
         "name": "Eyes of the Prey",
         "image": "https://i.ibb.co/7G1T6FW/eyes-of-the-prey-preview-7527179.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -305,7 +305,7 @@
         "name": "Landau's Choice",
         "image": "https://i.ibb.co/7S7QJLN/landaus-choice-preview-5358819.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -315,7 +315,7 @@
         "name": "Swordplay",
         "image": "https://i.ibb.co/5R9SvYm/swordplay-preview-1424692.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -325,7 +325,7 @@
         "name": "Planetary Rendezvous",
         "image": "https://i.ibb.co/b6SPgXs/planetary-rendezvous-preview-1207280.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -335,7 +335,7 @@
         "name": "A Secret Vow",
         "image": "https://i.ibb.co/Wg5wTfc/a-secret-vow-preview-1258467.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -345,7 +345,7 @@
         "name": "Make the World Clamor",
         "image": "https://i.ibb.co/vc9jZ7f/make-the-world-clamor-preview-4068896.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -355,7 +355,7 @@
         "name": "Perfect Timing",
         "image": "https://i.ibb.co/C79df91/perfect-timing-preview-5061703.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -365,7 +365,7 @@
         "name": "Resolution Shines As Pearls of Sweat",
         "image": "https://i.ibb.co/jGdBqgD/resolution-shines-as-pearls-of-sweat-preview-7098827.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -375,7 +375,7 @@
         "name": "Trend of the Universal Market",
         "image": "https://i.ibb.co/hc7dzLs/trend-of-the-universal-market-preview-3578914.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -385,7 +385,7 @@
         "name": "Subscribe for More!",
         "image": "https://i.ibb.co/441gz4s/subscribe-for-more-preview-3491152.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -395,7 +395,7 @@
         "name": "Dance! Dance! Dance!",
         "image": "https://i.ibb.co/6tC4L4P/dance-dance-dance-preview-4539945.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -405,7 +405,7 @@
         "name": "Under the Blue Sky",
         "image": "https://i.ibb.co/GF4dTjC/under-the-blue-sky-preview-6597139.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -415,7 +415,7 @@
         "name": "Geniuses' Repose",
         "image": "https://i.ibb.co/7j88YmR/geniuses-repose-preview-2611429.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -695,7 +695,7 @@
         "name": "Night on the Milky Way",
         "image": "https://i.ibb.co/FDsvZcm/night-on-the-milky-way-preview-8218578.png",
         "weapon": "Erudition",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -715,7 +715,7 @@
         "name": "Something Irreplaceable",
         "image": "https://i.ibb.co/T0qjjjF/something-irreplaceable-preview-381629.png",
         "weapon": "Destruction",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -725,7 +725,7 @@
         "name": "But the Battle Isn't Over",
         "image": "https://i.ibb.co/7ShbTQs/but-the-battle-isnt-over-preview-3875442.png",
         "weapon": "Harmony",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -735,7 +735,7 @@
         "name": "In the Name of the World",
         "image": "https://i.ibb.co/c6p7kNq/in-the-name-of-the-world-preview-7075135.png",
         "weapon": "Nihility",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -745,7 +745,7 @@
         "name": "Moment of Victory",
         "image": "https://i.ibb.co/jRnT9bv/moment-of-victory-preview-1763625.png",
         "weapon": "Preservation",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -815,7 +815,7 @@
         "name": "Sleep Like the Dead",
         "image": "https://i.ibb.co/pdh8tgf/sleep-like-the-dead-preview-2872958.png",
         "weapon": "The Hunt",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
@@ -825,7 +825,7 @@
         "name": "Time Waits for No One",
         "image": "https://i.ibb.co/K0x09Dk/time-waits-for-no-one-preview-2642843.png",
         "weapon": "Abundance",
-        "bannerType": "limited",
+        "bannerType": "standard",
         "minConstellation": 2,
         "maxConstellation": 5
     },
