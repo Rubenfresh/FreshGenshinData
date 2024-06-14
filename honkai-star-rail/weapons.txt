@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1.1,
+    "rating": 3,
+    "name": "Arrows",
+    "image": "https://cdn.wanderer.moe/honkai-star-rail/light-cones/woof-walk-time-preview.png",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 2.1,
+    "rating": 3,
+    "name": "Cornucopia",
+    "image": "https://64.media.tumblr.com/8844295f915b938875a5e7f2cdfc3724/52b6e32301de4593-ee/s1280x1920/2c47c76bc32e3b3dbea4992cb03042c21da77adc.pnj",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 3.1,
+    "rating": 3,
+    "name": "Collapsing Sky",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 4.1,
+    "rating": 3,
+    "name": "Amber",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 5.1,
+    "rating": 3,
+    "name": "Void",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 6.1,
+    "rating": 3,
+    "name": "Chorus",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 7.1,
+    "rating": 3,
+    "name": "Data Bank",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 8.1,
+    "rating": 3,
+    "name": "Darting Arrow",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 9.1,
+    "rating": 3,
+    "name": "Fine Fruit",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 10.1,
+    "rating": 3,
+    "name": "Shattered Home",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 11.1,
+    "rating": 3,
+    "name": "Defense",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 12.1,
+    "rating": 3,
+    "name": "Loop",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 13.1,
+    "rating": 3,
+    "name": "Meshing Cogs",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 14.1,
+    "rating": 3,
+    "name": "Passkey",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 15.1,
+    "rating": 3,
+    "name": "Adversarial",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 16.1,
+    "rating": 3,
+    "name": "Multiplication",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 17.1,
+    "rating": 3,
+    "name": "Mutual Demise",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 18.1,
+    "rating": 3,
+    "name": "Pioneering",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 19.1,
+    "rating": 3,
+    "name": "Hidden Shadow",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 20.1,
+    "rating": 3,
+    "name": "Mediation",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 21.1,
+    "rating": 3,
+    "name": "Sagacity",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 22.1,
+    "rating": 4,
+    "name": "Post-Op Conversation",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 23.1,
+    "rating": 4,
+    "name": "Good Night and Sleep Well",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 24.1,
+    "rating": 4,
+    "name": "Day One of My New Life",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 25.1,
+    "rating": 4,
+    "name": "Only Silence Remains",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 26.1,
+    "rating": 4,
+    "name": "Memories of the Past",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 27.1,
+    "rating": 4,
+    "name": "The Moles Welcome You",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 28.1,
+    "rating": 4,
+    "name": "The Birth of the Self",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 29.1,
+    "rating": 4,
+    "name": "Shared Feeling",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 30.1,
+    "rating": 4,
+    "name": "Eyes of the Prey",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 31.1,
+    "rating": 4,
+    "name": "Landau's Choice",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 32.1,
+    "rating": 4,
+    "name": "Swordplay",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 33.1,
+    "rating": 4,
+    "name": "Planetary Rendezvous",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 34.1,
+    "rating": 4,
+    "name": "A Secret Vow",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 35.1,
+    "rating": 4,
+    "name": "Make the World Clamor",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 36.1,
+    "rating": 4,
+    "name": "Perfect Timing",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 37.1,
+    "rating": 4,
+    "name": "Resolution Shines As Pearls of Sweat",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 38.1,
+    "rating": 4,
+    "name": "Trend of the Universal Market",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 39.1,
+    "rating": 4,
+    "name": "Subscribe for More!",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 40.1,
+    "rating": 4,
+    "name": "Dance! Dance! Dance!",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 41.1,
+    "rating": 4,
+    "name": "Under the Blue Sky",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 42.1,
+    "rating": 4,
+    "name": "Geniuses' Repose",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 43.1,
+    "rating": 4,
+    "name": "Quid Pro Quo",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 44.1,
+    "rating": 4,
+    "name": "Fermata",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 45.1,
+    "rating": 4,
+    "name": "We Are Wildfire",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 46.1,
+    "rating": 4,
+    "name": "River Flows in Spring",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 47.1,
+    "rating": 4,
+    "name": "Past and Future",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 48.1,
+    "rating": 4,
+    "name": "Woof! Walk Time!",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 49.1,
+    "rating": 4,
+    "name": "The Seriousness of Breakfast",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 50.1,
+    "rating": 4,
+    "name": "Warmth Shortens Cold Nights",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 51.1,
+    "rating": 4,
+    "name": "We Will Meet Again",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 52.1,
+    "rating": 4,
+    "name": "This Is Me!",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 53.1,
+    "rating": 4,
+    "name": "Return to Darkness",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 54.1,
+    "rating": 4,
+    "name": "Carve the Moon, Weave the Clouds",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 55.1,
+    "rating": 4,
+    "name": "Nowhere to Run",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 56.1,
+    "rating": 4,
+    "name": "Today Is Another Peaceful Day",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 57.1,
+    "rating": 4,
+    "name": "What Is Real?",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 58.1,
+    "rating": 4,
+    "name": "Dreamville Adventure",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 59.1,
+    "rating": 4,
+    "name": "Final Victor",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 60.1,
+    "rating": 4,
+    "name": "Flames Afar",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 61.1,
+    "rating": 4,
+    "name": "Destiny's Threads Forewoven",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 62.1,
+    "rating": 4,
+    "name": "The Day The Cosmos Fell",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 63.1,
+    "rating": 4,
+    "name": "It's Showtime",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 64.1,
+    "rating": 4,
+    "name": "Indelible Promise",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 65.1,
+    "rating": 4,
+    "name": "Concert for Two",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 66.1,
+    "rating": 4,
+    "name": "Boundless Choreo",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 67.1,
+    "rating": 4,
+    "name": "Before the Tutorial Mission Starts",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 68.1,
+    "rating": 4,
+    "name": "Hey, Over Here",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 69.1,
+    "rating": 4,
+    "name": "For Tomorrow's Journey",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 70.1,
+    "rating": 5,
+    "name": "Night on the Milky Way",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 71.1,
+    "rating": 5,
+    "name": "In the Night",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 72.1,
+    "rating": 5,
+    "name": "Something Irreplaceable",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 73.1,
+    "rating": 5,
+    "name": "But the Battle Isn't Over",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 74.1,
+    "rating": 5,
+    "name": "In the Name of the World",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 75.1,
+    "rating": 5,
+    "name": "Moment of Victory",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 76.1,
+    "rating": 5,
+    "name": "Patience Is All You Need",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 77.1,
+    "rating": 5,
+    "name": "Incessant Rain",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 78.1,
+    "rating": 5,
+    "name": "Echoes of the Coffin",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 79.1,
+    "rating": 5,
+    "name": "The Unreachable Side",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 80.1,
+    "rating": 5,
+    "name": "Before Dawn",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 81.1,
+    "rating": 5,
+    "name": "She Already Shut Her Eyes",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 82.1,
+    "rating": 5,
+    "name": "Sleep Like the Dead",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 83.1,
+    "rating": 5,
+    "name": "Time Waits for No One",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 84.1,
+    "rating": 5,
+    "name": "I Shall Be My Own Sword",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 85.1,
+    "rating": 5,
+    "name": "Brighter Than the Sun",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 86.1,
+    "rating": 5,
+    "name": "Worrisome, Blissful",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 87.1,
+    "rating": 5,
+    "name": "Night of Fright",
+    "image": "",
+    "weapon": "Abundance",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 88.1,
+    "rating": 5,
+    "name": "An Instant Before A Gaze",
+    "image": "",
+    "weapon": "Erudition",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 89.1,
+    "rating": 5,
+    "name": "Past Self in Mirror",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 90.1,
+    "rating": 5,
+    "name": "Baptism of Pure Thought",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 91.1,
+    "rating": 5,
+    "name": "Earthly Escapade",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 92.1,
+    "rating": 5,
+    "name": "Reforged Remembrance",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 93.1,
+    "rating": 5,
+    "name": "Inherently Unjust Destiny",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 94.1,
+    "rating": 5,
+    "name": "Along the Passing Shore",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 95.1,
+    "rating": 5,
+    "name": "Flowing Nightglow",
+    "image": "",
+    "weapon": "Harmony",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 96.1,
+    "rating": 5,
+    "name": "Sailing Towards a Second Life",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 97.1,
+    "rating": 5,
+    "name": "On the Fall of an Aeon",
+    "image": "",
+    "weapon": "Destruction",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 98.1,
+    "rating": 5,
+    "name": "Cruising in the Stellar Sea",
+    "image": "",
+    "weapon": "The Hunt",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 99.1,
+    "rating": 5,
+    "name": "Texture of Memories",
+    "image": "",
+    "weapon": "Preservation",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  },
+  {
+    "id": 100.1,
+    "rating": 5,
+    "name": "Solitary Healing",
+    "image": "",
+    "weapon": "Nihility",
+    "bannerType": "limited",
+    "minConstellation": 2,
+    "maxConstellation": 5
+  }
+]
