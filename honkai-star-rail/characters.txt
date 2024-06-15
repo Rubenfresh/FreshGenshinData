@@ -300,7 +300,7 @@
   {
     "id": 34,
     "rating": 5,
-    "name": "Dan Heng - Imbibitor Lunae",
+    "name": "Imbibitor Lunae",
     "image": "https://i.ibb.co/8Kz5tWL/Imbibitor-Lunae.webp",
     "element": "Imaginary",
     "weapon": "Destruction",
