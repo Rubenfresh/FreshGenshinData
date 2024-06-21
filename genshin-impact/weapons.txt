@@ -1735,5 +1735,15 @@
         "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {    
+        "id": 175.1,
+        "rating": 5,
+        "name": "Silvershower Heartstrings",
+        "image": "https://i.ibb.co/RczjmxL/Silvershower-Heartstrings.webp",
+        "weapon": "Bow",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
