@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "rating": 4,
+        "name": "Anby Demara",
+        "image": "https://i.ibb.co/Fzck8cg/Anby.webp",
+        "element": "Electric",
+        "weapon": "Stun",
+        "modelType": "Medium Female",
+        "bannerType": "standard",
+        "region": ""
+    }
+  ]
