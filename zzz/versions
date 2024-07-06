@@ -1,0 +1,28 @@
+[
+  {
+    "number": 1,
+    "date": "2023-7-4",
+    "banners": [
+      {
+        "beginDate": "2023-7-4",
+        "endDate": "2023-7-4",
+        "characters": []
+      },
+      {
+        "beginDate": "2023-7-4",
+        "endDate": "2023-7-4",
+        "weapons": []
+      },
+      {
+        "beginDate": "2023-7-4",
+        "endDate": "2023-7-4",
+        "characters": []
+      },
+      {
+        "beginDate": "2023-7-4",
+        "endDate": "2023-7-4",
+        "weapons": []
+      }
+    ]
+  }
+]
