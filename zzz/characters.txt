@@ -8,6 +8,182 @@
         "weapon": "Stun",
         "modelType": "Medium Female",
         "bannerType": "standard",
-        "region": ""
+        "region": "Cunning Hares"
+    },
+    {
+        "id": 2,
+        "rating": 4,
+        "name": "Anton Ivanov",
+        "image": "",
+        "element": "Electric",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Belobog Heavy Industries"
+    },
+    {
+        "id": 3,
+        "rating": 4,
+        "name": "Ben Bigger",
+        "image": "",
+        "element": "Fire",
+        "weapon": "Defense",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Belobog Heavy Industries"
+    },
+    {
+        "id": 4,
+        "rating": 4,
+        "name": "Billy Kid",
+        "image": "",
+        "element": "Physical",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Cunning Hares"
+    },
+    {
+        "id": 5,
+        "rating": 4,
+        "name": "Corin Wickes",
+        "image": "",
+        "element": "Physical",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Victoria Housekeeping"
+    },
+    {
+        "id": 6,
+        "rating": 4,
+        "name": "Luciana de Montefio",
+        "image": "",
+        "element": "Fire",
+        "weapon": "Support",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Sons of Calydon"
+    },
+    {
+        "id": 7,
+        "rating": 4,
+        "name": "Nicole Demara",
+        "image": "",
+        "element": "Ether",
+        "weapon": "Support",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Cunning Hares"
+    },
+    {
+        "id": 8,
+        "rating": 4,
+        "name": "Piper Wheel",
+        "image": "",
+        "element": "Physical",
+        "weapon": "Anomaly",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Sons of Calydon"
+    },
+    {
+        "id": 9,
+        "rating": 4,
+        "name": "Soukaku",
+        "image": "",
+        "element": "Ice",
+        "weapon": "Support",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Section 6"
+    },
+    {
+        "id": 10,
+        "rating": 5,
+        "name": "Alexandrina Sebastiane",
+        "image": "",
+        "element": "Electric",
+        "weapon": "Support",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Victoria Housekeeping"
+    },
+    {
+        "id": 11,
+        "rating": 5,
+        "name": "Grace Howard",
+        "image": "",
+        "element": "Electric",
+        "weapon": "Anomaly",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Belobog Heavy Industries"
+    },
+    {
+        "id": 12,
+        "rating": 5,
+        "name": "Koleda Belobog",
+        "image": "",
+        "element": "Fire",
+        "weapon": "Stun",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Belobog Heavy Industries"
+    },
+    {
+        "id": 13,
+        "rating": 5,
+        "name": "Nekomiya Mana",
+        "image": "",
+        "element": "Physical",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Cunning Hares"
+    },
+    {
+        "id": 14,
+        "rating": 5,
+        "name": "Soldier 11",
+        "image": "",
+        "element": "Fire",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Obol Squad"
+    },
+    {
+        "id": 15,
+        "rating": 5,
+        "name": "Von Lycaon",
+        "image": "",
+        "element": "Ice",
+        "weapon": "Stun",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Victoria Housekeeping"
+    },
+    {
+        "id": 16,
+        "rating": 5,
+        "name": "Ellen Joe",
+        "image": "",
+        "element": "Ice",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Victoria Housekeeping"
+    },
+    {
+        "id": 17,
+        "rating": 5,
+        "name": "Zhu Yuan",
+        "image": "",
+        "element": "Ether",
+        "weapon": "Attack",
+        "modelType": "",
+        "bannerType": "standard",
+        "region": "Criminal Investigation Special Response Team"
     }
-  ]
+]
