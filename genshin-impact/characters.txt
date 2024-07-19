@@ -619,7 +619,7 @@
         "image": "https://i.ibb.co/3kbvtdP/dori.png",
         "element": "Electro",
         "weapon": "Claymore",
-        "region": "Inazuma",
+        "region": "Sumeru",
         "modelType": "Short Female",
         "birthDay": "2024-12-21",
         "bannerType": "standard"
