@@ -15,7 +15,7 @@
         "id": 2,
         "rating": 4,
         "name": "Barbara",
-        "image": "https://i.ibb.co/Mh2dQNJ/barbara.png",
+        "image": "https://i.ibb.co/hmCV9jV/Noelle.webp",
         "element": "Hydro",
         "weapon": "Catalyst",
         "region": "Mondstadt",
