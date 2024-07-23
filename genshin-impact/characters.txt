@@ -999,7 +999,7 @@
     {
         "id": 84,
         "rating": 5,
-        "name": "E­mi­lie",
+        "name": "Emilie",
         "image": "https://i.ibb.co/2crPC8s/temp.webp",
         "element": "Dendro",
         "weapon": "Polearm",
