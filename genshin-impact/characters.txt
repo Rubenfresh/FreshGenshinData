@@ -995,5 +995,17 @@
         "modelType": "Short Female",
         "birthDay": "2024-3-30",
         "bannerType": "limited"
+    },
+    {
+        "id": 84,
+        "rating": 5,
+        "name": "E­mi­lie",
+        "image": "https://i.ibb.co/2crPC8s/temp.webp",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "modelType": "Medium Female",
+        "birthDay": "2024-9-22",
+        "bannerType": "limited"
     }
 ]
