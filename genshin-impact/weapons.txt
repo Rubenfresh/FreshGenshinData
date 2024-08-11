@@ -1745,5 +1745,15 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {    
+        "id": 176.1,
+        "rating": 5,
+        "name": "Lumidouce Elegy",
+        "image": "https://i.imgur.com/ZG8nl4j.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
