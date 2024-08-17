@@ -499,5 +499,35 @@
         "weapon": "Erudition",
         "bannerType": "limited",
         "region": ""
+    },
+    {
+        "id": 51,
+        "rating": 5,
+        "name": "Yunli",
+        "image": "https://i.imgur.com/ANHl4LC.png",
+        "element": "Physical",
+        "weapon": "Destruction",
+        "bannerType": "limited",
+        "region": ""
+    },
+    {
+        "id": 52,
+        "rating": 5,
+        "name": "Jiaoqiu",
+        "image": "https://i.imgur.com/k2qahbr.png",
+        "element": "Fire",
+        "weapon": "Nihility",
+        "bannerType": "limited",
+        "region": ""
+    },
+    {
+        "id": 53,
+        "rating": 4,
+        "name": "March 7th: The Hunt",
+        "image": "https://i.imgur.com/ikWfcGU.png",
+        "element": "Imaginary",
+        "weapon": "The Hunt",
+        "bannerType": "",
+        "region": ""
     }
 ]
