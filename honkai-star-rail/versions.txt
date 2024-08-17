@@ -404,5 +404,31 @@
         "weapons": [88.1,29.1,38.1,104.1]
       }
     ]
+  },
+  {
+    "number": 2.4,
+    "date": "2024-7-31",
+    "banners": [
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [51]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "weapons": []
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [52]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "weapons": []
+      }
+    ]
   }
 ]
