@@ -523,7 +523,7 @@
     {
         "id": 53,
         "rating": 4,
-        "name": "March 7th: The Hunt",
+        "name": "March 7th",
         "image": "https://i.imgur.com/ikWfcGU.png",
         "element": "Imaginary",
         "weapon": "The Hunt",
