@@ -1036,7 +1036,7 @@
         "id": 87,
         "rating": 4,
         "name": "Kachina",
-        "image": "",
+        "image": "https://i.imgur.com/MwfRKX6.png",
         "element": "Geo",
         "weapon": "Polearm",
         "region": "Natlan",
