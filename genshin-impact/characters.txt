@@ -1007,5 +1007,41 @@
         "modelType": "Medium Female",
         "birthDay": "2024-9-22",
         "bannerType": "limited"
+    },
+    {
+        "id": 85,
+        "rating": 5,
+        "name": "Mualani",
+        "image": "https://i.imgur.com/QFcByTr.png",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
+    {
+        "id": 86,
+        "rating": 5,
+        "name": "Kinich",
+        "image": "https://i.imgur.com/QwQ6iud.png",
+        "element": "Dendro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
+    {
+        "id": 87,
+        "rating": 4,
+        "name": "Kachina",
+        "image": "",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "https://i.imgur.com/MwfRKX6.png",
+        "bannerType": "standard"
     }
 ]
