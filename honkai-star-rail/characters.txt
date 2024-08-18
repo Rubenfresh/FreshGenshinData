@@ -527,7 +527,7 @@
         "image": "https://i.imgur.com/ikWfcGU.png",
         "element": "Imaginary",
         "weapon": "The Hunt",
-        "bannerType": "",
+        "bannerType": "noBanner",
         "region": ""
     }
 ]
