@@ -1038,5 +1038,35 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {
+        "id": 105.1,
+        "rating": 4,
+        "name": "Poised to Bloom",
+        "image": "https://i.imgur.com/e3CRC2t.png",
+        "weapon": "Erudition",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 106.1,
+        "rating": 5,
+        "name": "Dance at Sunset",
+        "image": "https://i.imgur.com/0tnBhLn.png",
+        "weapon": "Destruction",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 107.1,
+        "rating": 5,
+        "name": "Those Many Springs",
+        "image": "https://i.imgur.com/NiOrPqp.png",
+        "weapon": "Nihility",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
