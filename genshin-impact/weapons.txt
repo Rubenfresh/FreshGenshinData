@@ -1755,5 +1755,25 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {    
+        "id": 177.1,
+        "rating": 5,
+        "name": "Surf's Up",
+        "image": "https://i.imgur.com/OTemWy5.png",
+        "weapon": "Catalyst",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {    
+        "id": 178.1,
+        "rating": 5,
+        "name": "Fang of the Mountain King",
+        "image": "https://i.imgur.com/FJbWfLC.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
