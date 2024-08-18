@@ -1010,6 +1010,18 @@
     },
     {
         "id": 85,
+        "rating": 4,
+        "name": "Kachina",
+        "image": "https://i.imgur.com/MwfRKX6.png",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "https://i.imgur.com/MwfRKX6.png",
+        "bannerType": "standard"
+    },
+    {
+        "id": 86,
         "rating": 5,
         "name": "Mualani",
         "image": "https://i.imgur.com/QFcByTr.png",
@@ -1021,7 +1033,7 @@
         "bannerType": "limited"
     },
     {
-        "id": 86,
+        "id": 87,
         "rating": 5,
         "name": "Kinich",
         "image": "https://i.imgur.com/QwQ6iud.png",
@@ -1031,17 +1043,5 @@
         "modelType": "Medium Female",
         "birthDay": "",
         "bannerType": "limited"
-    },
-    {
-        "id": 87,
-        "rating": 4,
-        "name": "Kachina",
-        "image": "https://i.imgur.com/MwfRKX6.png",
-        "element": "Geo",
-        "weapon": "Polearm",
-        "region": "Natlan",
-        "modelType": "Medium Female",
-        "birthDay": "https://i.imgur.com/MwfRKX6.png",
-        "bannerType": "standard"
     }
 ]
