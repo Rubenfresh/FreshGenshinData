@@ -853,7 +853,7 @@
         "rating": 4,
         "name": "Snow-Tombed Starsilver",
         "image": "https://i.ibb.co/mTMhKWz/Snow-Tombed-Starsilver.webp",
-        "weapon": "Catalyst",
+        "weapon": "Claymore",
         "bannerType": "noBanner",
         "minConstellation": 2,
         "maxConstellation": 5
