@@ -1068,5 +1068,35 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {
+        "id": 108.1,
+        "rating": 5,
+        "name": "I Venture Forth to Hunt",
+        "image": "https://i.imgur.com/SYzIcXk.png",
+        "weapon": "The Hunt",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 109.1,
+        "rating": 5,
+        "name": "Scent Alone Stays True",
+        "image": "https://i.imgur.com/ubZTVJm.png",
+        "weapon": "Abundance",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {
+        "id": 110.1,
+        "rating": 4,
+        "name": "Shadowed by Night",
+        "image": "https://i.imgur.com/NrbFyTh.png",
+        "weapon": "The Hunt",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
