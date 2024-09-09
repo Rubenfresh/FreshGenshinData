@@ -529,5 +529,15 @@
         "weapon": "The Hunt",
         "bannerType": "noBanner",
         "region": ""
+    },
+{
+        "id": 54,
+        "rating": 5,
+        "name": "Feixiao",
+        "image": "https://i.imgur.com/DeKIP18.png",
+        "element": "Wind",
+        "weapon": "The Hunt",
+        "bannerType": "limited",
+        "region": ""
     }
 ]
