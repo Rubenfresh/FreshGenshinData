@@ -530,7 +530,7 @@
         "bannerType": "noBanner",
         "region": ""
     },
-{
+    {
         "id": 54,
         "rating": 5,
         "name": "Feixiao",
@@ -538,6 +538,26 @@
         "element": "Wind",
         "weapon": "The Hunt",
         "bannerType": "limited",
+        "region": ""
+    },
+    {
+        "id": 55,
+        "rating": 5,
+        "name": "Lingsha",
+        "image": "https://i.imgur.com/RDYfveY.png",
+        "element": "Fire",
+        "weapon": "Abundance",
+        "bannerType": "limited",
+        "region": ""
+    },
+    {
+        "id": 56,
+        "rating": 4,
+        "name": "Moze",
+        "image": "https://i.imgur.com/yPnTOMA.png",
+        "element": "Lightning",
+        "weapon": "The Hunt",
+        "bannerType": "standard",
         "region": ""
     }
 ]
