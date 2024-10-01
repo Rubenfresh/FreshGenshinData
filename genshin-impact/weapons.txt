@@ -1775,5 +1775,45 @@
         "bannerType": "limited",
         "minConstellation": 2,
         "maxConstellation": 5
+    },
+    {    
+        "id": 179.1,
+        "rating": 5,
+        "name": "Peak Patrol Song",
+        "image": "https://i.imgur.com/guBS1Pg.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {    
+        "id": 180.1,
+        "rating": 4,
+        "name": "Sturdy Bone",
+        "image": "https://i.imgur.com/MW5ukDL.png",
+        "weapon": "Sword",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {    
+        "id": 181.1,
+        "rating": 4,
+        "name": "Fruitful Hook",
+        "image": "https://i.imgur.com/7YfNHQW.png",
+        "weapon": "Claymore",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
+    },
+    {    
+        "id": 182.1,
+        "rating": 4,
+        "name": "Mountain-Bracing Bolt",
+        "image": "https://i.imgur.com/s4L8bSu.png",
+        "weapon": "Polearm",
+        "bannerType": "limited",
+        "minConstellation": 2,
+        "maxConstellation": 5
     }
 ]
