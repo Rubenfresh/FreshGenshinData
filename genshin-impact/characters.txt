@@ -1016,7 +1016,7 @@
         "element": "Geo",
         "weapon": "Polearm",
         "region": "Natlan",
-        "modelType": "Medium Female",
+        "modelType": "Short Female",
         "birthDay": "2024-4-22",
         "bannerType": "standard"
     },
@@ -1040,7 +1040,19 @@
         "element": "Dendro",
         "weapon": "Claymore",
         "region": "Natlan",
-        "modelType": "Medium Female",
+        "modelType": "Medium Male",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
+    {
+        "id": 88,
+        "rating": 5,
+        "name": "Xilonen",
+        "image": "https://imgur.com/ZB7Sd8d",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Natlan",
+        "modelType": "Tall Female",
         "birthDay": "",
         "bannerType": "limited"
     }
