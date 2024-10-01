@@ -1041,14 +1041,14 @@
         "weapon": "Claymore",
         "region": "Natlan",
         "modelType": "Medium Male",
-        "birthDay": "",
+        "birthDay": "2024-11-11",
         "bannerType": "limited"
     },
     {
         "id": 88,
         "rating": 5,
         "name": "Xilonen",
-        "image": "https://imgur.com/ZB7Sd8d",
+        "image": "https://i.imgur.com/ZB7Sd8d.png",
         "element": "Geo",
         "weapon": "Sword",
         "region": "Natlan",
