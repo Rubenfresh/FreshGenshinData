@@ -1048,12 +1048,12 @@
         "id": 88,
         "rating": 5,
         "name": "Xilonen",
-        "image": "https://i.imgur.com/ZB7Sd8d.png",
+        "image": "https://i.imgur.com/Hg7EpC9.png",
         "element": "Geo",
         "weapon": "Sword",
         "region": "Natlan",
         "modelType": "Tall Female",
-        "birthDay": "",
+        "birthDay": "2024-3-13",
         "bannerType": "limited"
     }
 ]
