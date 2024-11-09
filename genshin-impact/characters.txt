@@ -1055,5 +1055,29 @@
         "modelType": "Tall Female",
         "birthDay": "2024-3-13",
         "bannerType": "limited"
-    }
+    },
+    {
+        "id": 89,
+        "rating": 4,
+        "name": "Ororon",
+        "image": "https://i.imgur.com/BWBZ3kS.png",
+        "element": "Electro",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "modelType": "Tall Male",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
+    {
+        "id": 100,
+        "rating": 5,
+        "name": "Chasca",
+        "image": "https://i.imgur.com/EM9euo4.png",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "region": "Natlan",
+        "modelType": "Tall Female",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
 ]
