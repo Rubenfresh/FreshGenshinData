@@ -559,5 +559,15 @@
         "weapon": "The Hunt",
         "bannerType": "standard",
         "region": ""
+    },
+    {
+        "id": 57,
+        "rating": 5,
+        "name": "Rappa",
+        "image": "https://i.imgur.com/yPnTOMA.png",
+        "element": "Imaginary",
+        "weapon": "Erudition",
+        "bannerType": "limited",
+        "region": ""
     }
 ]
