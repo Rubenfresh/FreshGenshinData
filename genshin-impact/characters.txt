@@ -1069,7 +1069,7 @@
         "bannerType": "limited"
     },
     {
-        "id": 100,
+        "id": 90,
         "rating": 5,
         "name": "Chasca",
         "image": "https://i.imgur.com/EM9euo4.png",
