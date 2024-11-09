@@ -453,7 +453,7 @@
       {
         "beginDate": "2023-4-25",
         "endDate": "2023-4-25",
-        "characters": [46, 56, 2, 28]
+        "characters": [46,44,26, 56, 2, 28]
       },
       {
         "beginDate": "2023-4-25",
@@ -474,6 +474,42 @@
         "beginDate": "2023-4-25",
         "endDate": "2023-4-25",
         "weapons": [109.1, 86.1, 33.1, 110.1, 29.1]
+      }
+    ]
+  },
+{
+    "number": 2.6,
+    "date": "2024-10-22",
+    "banners": [
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [57,35,27,25 ]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [34,35,27,25]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "weapons": []
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [41,10,8,6]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "characters": [45,10,8,6]
+      },
+      {
+        "beginDate": "2023-4-25",
+        "endDate": "2023-4-25",
+        "weapons": []
       }
     ]
   }
