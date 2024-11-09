@@ -1079,5 +1079,5 @@
         "modelType": "Tall Female",
         "birthDay": "",
         "bannerType": "limited"
-    },
+    }
 ]
