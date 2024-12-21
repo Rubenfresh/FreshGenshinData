@@ -1065,7 +1065,7 @@
         "weapon": "Bow",
         "region": "Natlan",
         "modelType": "Tall Male",
-        "birthDay": "",
+        "birthDay": "2024-10-14",
         "bannerType": "limited"
     },
     {
@@ -1077,7 +1077,43 @@
         "weapon": "Bow",
         "region": "Natlan",
         "modelType": "Tall Female",
+        "birthDay": "2024-12-10",
+        "bannerType": "limited"
+    },
+    {
+        "id": 91,
+        "rating": 4,
+        "name": "Lan Yan",
+        "image": "https://i.imgur.com/0gJi9L4.png",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Liyue",
+        "modelType": "Medium Female",
         "birthDay": "",
         "bannerType": "limited"
-    }
+    },
+    {
+        "id": 92,
+        "rating": 5,
+        "name": "Mavuika",
+        "image": "https://i.imgur.com/K1KBQuN.png",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "region": "Natlan",
+        "modelType": "Tall Female",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
+    {
+        "id": 93,
+        "rating": 5,
+        "name": "Citlali",
+        "image": "https://i.imgur.com/jXEtsKw.png",
+        "element": "Cryo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "",
+        "bannerType": "limited"
+    },
 ]
