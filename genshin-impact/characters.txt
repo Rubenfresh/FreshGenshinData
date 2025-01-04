@@ -653,7 +653,7 @@
         "rating": 5,
         "name": "Cyno",
         "image": "https://i.ibb.co/r6JDXTG/cyno.png",
-        "cdImage": "https://i.imgur.com/Z8KWcFJ.png",
+        "wlImage": "https://i.imgur.com/Z8KWcFJ.png",
         "element": "Electro",
         "weapon": "Polearm",
         "region": "Sumeru",
