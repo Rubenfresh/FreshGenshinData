@@ -4,7 +4,7 @@
         "rating": 4,
         "name": "Amber",
         "image": "https://i.ibb.co/124bfh0/amber.png",
-        "wlImage": "",
+        "wlImage": "https://i.imgur.com/uxGRGkh.png",
         "element": "Pyro",
         "weapon": "Bow",
         "region": "Mondstadt",
@@ -23,7 +23,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-7-5",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 3,
@@ -36,7 +36,7 @@
         "region": "Liyue",
         "modelType": "Tall Female",
         "birthDay": "2024-2-14",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 4,
@@ -49,7 +49,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-2-29",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 5,
@@ -62,7 +62,7 @@
         "region": "Liyue",
         "modelType": "Medium Male",
         "birthDay": "2024-9-7",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 6,
@@ -88,7 +88,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-5-27",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 8,
@@ -108,7 +108,7 @@
         "rating": 4,
         "name": "Kaeya",
         "image": "https://i.ibb.co/vHs5gNx/kaeya.png",
-        "wlImage": "",
+        "wlImage": "https://i.imgur.com/kEIwFL6.png",
         "element": "Cryo",
         "weapon": "Sword",
         "region": "Mondstadt",
@@ -147,7 +147,7 @@
         "rating": 4,
         "name": "Lisa",
         "image": "https://i.ibb.co/M8vM0jQ/lisa.png",
-        "wlImage": "",
+        "wlImage": "https://i.imgur.com/b9jlYBq.png",
         "element": "Electro",
         "weapon": "Catalyst",
         "region": "Mondstadt",
@@ -179,7 +179,7 @@
         "region": "Liyue",
         "modelType": "Tall Female",
         "birthDay": "2024-8-26",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 15,
@@ -192,7 +192,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-3-21",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 16,
@@ -218,7 +218,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-9-9",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 18,
@@ -231,7 +231,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-11-26",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 19,
@@ -257,7 +257,7 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-11-2",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 21,
@@ -270,7 +270,7 @@
         "region": "Liyue",
         "modelType": "Medium Male",
         "birthDay": "2024-10-9",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 22,
@@ -283,7 +283,7 @@
         "region": "Mondstadt",
         "modelType": "Short Female",
         "birthDay": "2024-1-18",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 23,
@@ -309,7 +309,7 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-10-16",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 25,
@@ -387,7 +387,7 @@
         "region": "Mondstadt",
         "modelType": "Tall Female",
         "birthDay": "2024-1-24",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 31,
@@ -413,7 +413,7 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-7-28",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 33,
@@ -452,7 +452,7 @@
         "region": "Inazuma",
         "modelType": "Short Female",
         "birthDay": "2024-10-19",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 36,
@@ -492,7 +492,7 @@
         "region": "Inazuma",
         "modelType": "Medium Female",
         "birthDay": "2024-7-14",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 39,
@@ -531,7 +531,7 @@
         "region": "Inazuma",
         "modelType": "Tall Male",
         "birthDay": "2024-1-9",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 42,
@@ -557,7 +557,7 @@
         "region": "Inazuma",
         "modelType": "Medium Male",
         "birthDay": "2024-5-18",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 44,
@@ -583,7 +583,7 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-5-21",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 46,
@@ -622,7 +622,7 @@
         "region": "Inazuma",
         "modelType": "Medium Female",
         "birthDay": "2024-7-27",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 49,
@@ -648,7 +648,7 @@
         "region": "Inazuma",
         "modelType": "Medium Male",
         "birthDay": "2024-7-24",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 51,
@@ -661,7 +661,7 @@
         "region": "Sumeru",
         "modelType": "Medium Female",
         "birthDay": "2024-5-8",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 52,
@@ -674,7 +674,7 @@
         "region": "Sumeru",
         "modelType": "Short Female",
         "birthDay": "2024-12-21",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 53,
@@ -700,7 +700,7 @@
         "region": "Sumeru",
         "modelType": "Tall Female",
         "birthDay": "2024-5-3",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 55,
@@ -739,7 +739,7 @@
         "region": "Sumeru",
         "modelType": "Medium Female",
         "birthDay": "2024-12-19",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 58,
@@ -765,7 +765,7 @@
         "region": "Sumeru",
         "modelType": "Medium Female",
         "birthDay": "2024-8-20",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 60,
@@ -804,7 +804,7 @@
         "region": "Liyue",
         "modelType": "Short Female",
         "birthDay": "2024-3-6",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 63,
@@ -830,7 +830,7 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-8-11",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 65,
@@ -856,7 +856,7 @@
         "region": "Sumeru",
         "modelType": "Tall Male",
         "birthDay": "2024-7-9",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 67,
@@ -869,7 +869,7 @@
         "region": "Inazuma",
         "modelType": "Medium Female",
         "birthDay": "2024-1-22",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 68,
@@ -882,7 +882,7 @@
         "region": "Fontaine",
         "modelType": "Medium Male",
         "birthDay": "2024-9-24",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 69,
@@ -895,7 +895,7 @@
         "region": "Fontaine",
         "modelType": "Medium Female",
         "birthDay": "2024-2-2",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 70,
@@ -947,7 +947,7 @@
         "region": "Fontaine",
         "modelType": "Medium Female",
         "birthDay": "2024-4-10",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 74,
@@ -973,7 +973,7 @@
         "region": "Fontaine",
         "modelType": "Medium Female",
         "birthDay": "2024-1-10",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 76,
@@ -999,7 +999,7 @@
         "region": "Fontaine",
         "modelType": "Medium Male",
         "birthDay": "2024-12-22",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 78,
@@ -1051,7 +1051,7 @@
         "region": "Sumeru",
         "modelType": "Medium Male",
         "birthDay": "2024-5-31",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 82,
@@ -1103,7 +1103,7 @@
         "region": "Natlan",
         "modelType": "Short Female",
         "birthDay": "2024-4-22",
-        "bannerType": "standard"
+        "bannerType": "limited"
     },
     {
         "id": 86,
