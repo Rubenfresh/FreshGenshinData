@@ -172,7 +172,7 @@
         "element": "Ice",
         "weapon": "Attack",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Victoria Housekeeping"
     },
     {
@@ -183,7 +183,7 @@
         "element": "Ether",
         "weapon": "Attack",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Criminal Investigation Special Response Team"
     }
 ]
