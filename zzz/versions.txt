@@ -12,7 +12,7 @@
         "beginDate": "2023-7-4",
         "endDate": "2023-7-4",
         "characters": [17]
-      },
+      }
     ]
   },
 {
