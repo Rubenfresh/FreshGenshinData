@@ -2,6 +2,7 @@
    {
       "number":1,
       "date":"2020-09-27T23:00:00.000Z",
+      "image":"https://i.imgur.com/mu4ZyFD.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
