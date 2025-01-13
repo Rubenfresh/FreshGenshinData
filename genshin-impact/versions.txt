@@ -1637,6 +1637,7 @@
    {
       "number":4.1,
       "date":"2023-09-26T23:00:00.000Z",
+      "image":"https://i.imgur.com/2iR0mA2.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -1709,6 +1710,7 @@
    {
       "number":4.2,
       "date":"2023-11-08T00:00:00.000Z",
+      "image":"https://i.imgur.com/Yuo3Nqg.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -1781,6 +1783,7 @@
    {
       "number":4.3,
       "date":"2023-12-20T00:00:00.000Z",
+      "image":"https://i.imgur.com/lWUtnYX.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -1853,6 +1856,7 @@
    {
       "number":4.4,
       "date":"2024-01-31T00:00:00.000Z",
+      "image":"https://i.imgur.com/dyCx2VP.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -1925,6 +1929,7 @@
    {
       "number":4.5,
       "date":"2024-03-13T00:00:00.000Z",
+      "image":"https://i.imgur.com/6OEkIlV.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2023,6 +2028,7 @@
    {
       "number":4.6,
       "date":"2024-04-23T23:00:00.000Z",
+      "image":"https://i.imgur.com/njP437F.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2095,6 +2101,7 @@
    {
       "number":4.7,
       "date":"2024-06-04T23:00:00.000Z",
+      "image":"https://i.imgur.com/0BG3wh9.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2167,6 +2174,7 @@
    {
       "number":4.8,
       "date":"2024-07-16T23:00:00.000Z",
+      "image":"https://i.imgur.com/hLVt4R6.jpeg",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
