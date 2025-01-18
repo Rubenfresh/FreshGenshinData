@@ -8,7 +8,7 @@
         "element": "Electric",
         "weapon": "Stun",
         "modelType": "Medium Female",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Cunning Hares"
     },
     {
@@ -20,7 +20,7 @@
         "element": "Electric",
         "weapon": "Attack",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Belobog Heavy Industries"
     },
     {
@@ -32,7 +32,7 @@
         "element": "Fire",
         "weapon": "Defense",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Belobog Heavy Industries"
     },
     {
@@ -44,7 +44,7 @@
         "element": "Physical",
         "weapon": "Attack",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Cunning Hares"
     },
     {
@@ -56,7 +56,7 @@
         "element": "Physical",
         "weapon": "Attack",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Victoria Housekeeping"
     },
     {
@@ -68,7 +68,7 @@
         "element": "Fire",
         "weapon": "Support",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Sons of Calydon"
     },
     {
@@ -80,7 +80,7 @@
         "element": "Ether",
         "weapon": "Support",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Cunning Hares"
     },
     {
@@ -92,7 +92,7 @@
         "element": "Physical",
         "weapon": "Anomaly",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Sons of Calydon"
     },
     {
@@ -104,7 +104,7 @@
         "element": "Ice",
         "weapon": "Support",
         "modelType": "",
-        "bannerType": "standard",
+        "bannerType": "limited",
         "region": "Section 6"
     },
     {
