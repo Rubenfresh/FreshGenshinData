@@ -278,11 +278,11 @@
     {
         "id": 24,
         "rating": 5,
-        "name": "Burnice White",
+        "name": "Lighter",
         "image": "",
         "wlImage": "https://i.imgur.com/84dp9pO.png",
         "element": "Fire",
-        "weapon": "Anomaly",
+        "weapon": "Stun",
         "modelType": "",
         "bannerType": "limited",
         "region": ""
