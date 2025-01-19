@@ -2270,6 +2270,7 @@
    {
       "number":5.0,
       "date":"2024-08-27T23:00:00.000Z",
+      "image":"https://i.imgur.com/F4DZlIX.png",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2331,6 +2332,7 @@
    {
       "number":5.1,
       "date":"2024-10-09",
+      "image":"https://i.imgur.com/hCppJRS.png",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2373,6 +2375,7 @@
    {
       "number":5.2,
       "date":"2024-11-20",
+      "image":"https://i.imgur.com/gifP1pX.png",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
@@ -2409,6 +2412,7 @@
    {
       "number":5.3,
       "date":"2025-01-01",
+      "image":"https://i.imgur.com/TzjOLgm.png",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
