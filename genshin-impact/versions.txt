@@ -2332,7 +2332,7 @@
    {
       "number":5.1,
       "date":"2024-10-09",
-      "image":"https://i.imgur.com/hCppJRS.png",
+      "image":"https://i.imgur.com/exreS06.png",
       "banners":[
          {
             "beginDate":"2019-12-31T00:00:00.000Z",
