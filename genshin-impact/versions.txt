@@ -2455,7 +2455,7 @@
 {
         number: 5.4,
         date: "2025-02-12",
-        image: 'https://i.imgur.com/GK7FODz.jpeg',
+        image: "https://i.imgur.com/GK7FODz.jpeg",
         banners: [
           {
             beginDate: "2019-12-31T00:00:00.000Z",
