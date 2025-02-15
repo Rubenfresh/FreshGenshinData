@@ -1180,7 +1180,7 @@
         "weapon": "Catalyst",
         "region": "Liyue",
         "modelType": "Medium Female",
-        "birthDay": "",
+        "birthDay": "2024-01-06",
         "bannerType": "limited"
     },
     {
@@ -1193,7 +1193,7 @@
         "weapon": "Claymore",
         "region": "Natlan",
         "modelType": "Tall Female",
-        "birthDay": "",
+        "birthDay": "2024-08-28",
         "bannerType": "limited"
     },
     {
@@ -1206,7 +1206,20 @@
         "weapon": "Catalyst",
         "region": "Natlan",
         "modelType": "Medium Female",
-        "birthDay": "",
+        "birthDay": "2024-01-20",
         "bannerType": "limited"
-    }
+    },
+ {
+        id: 94,
+        rating: 5,
+        name: 'Yumemizuki Mizuki',
+        image: 'https://i.imgur.com/ugbmAJR.png',
+        wlImage: 'https://i.imgur.com/UBFibWf.png',
+        element: GenshinElement.Anemo,
+        weapon: GenshinWeaponType.Catalyst,
+        region: GenshinRegion.Inazuma,
+        modelType: GenshinModelType.MediumFemale,
+        birthDay: "2024-03-16",
+        bannerType: BannerType.Standard
+      }
 ]
