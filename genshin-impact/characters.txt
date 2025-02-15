@@ -1210,16 +1210,16 @@
         "bannerType": "limited"
     },
  {
-        id: 94,
-        rating: 5,
-        name: "Yumemizuki Mizuki",
-        image: "https://i.imgur.com/ugbmAJR.png",
-        wlImage: "https://i.imgur.com/UBFibWf.png",
-        element: "Anemo",
-        weapon: "Catalyst",
-        region: "Inazuma",
-        modelType: "Medium Female",
-        birthDay: "2024-03-16",
-        bannerType: "standard"
+        "id": 94,
+        "rating": 5,
+        "name": "Yumemizuki Mizuki",
+        "image": "https://i.imgur.com/ugbmAJR.png",
+        "wlImage": "https://i.imgur.com/UBFibWf.png",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Inazuma",
+        "modelType": "Medium Female",
+        "birthDay": "2024-03-16",
+        "bannerType": "standard"
       }
 ]
