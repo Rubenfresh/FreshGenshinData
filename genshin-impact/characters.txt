@@ -1174,7 +1174,7 @@
         "id": 91,
         "rating": 4,
         "name": "Lan Yan",
-        "image": "https://i.imgur.com/LN0uU38.png",
+        "image": "https://i.imgur.com/XhcUJCh.png",
         "wlImage": "https://i.imgur.com/m6EMsNX.png",
         "element": "Anemo",
         "weapon": "Catalyst",
