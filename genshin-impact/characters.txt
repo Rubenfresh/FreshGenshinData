@@ -1221,5 +1221,31 @@
         "modelType": "Medium Female",
         "birthDay": "2024-03-16",
         "bannerType": "standard"
-      }
+      },
+    {
+        "id": 95,
+        "rating": 4,
+        "name": "Iansan",
+        "image": "https://i.imgur.com/s9S7bkW.png",
+        "wlImage": "https://i.imgur.com/0cNezDv.png",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Natlan",
+        "modelType": "Short Female",
+        "birthDay": "2025-03-26T01:57:01.832Z",
+        "bannerType": "limited"
+    },
+    {
+        "id": 96,
+        "rating": 5,
+        "name": "Varesa",
+        "image": "https://i.imgur.com/iSK2wmX.png",
+        "wlImage": "https://i.imgur.com/2yKQfHq.png",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "modelType": "Medium Female",
+        "birthDay": "2025-03-26T01:57:01.832Z",
+        "bannerType": "limited"
+    }
 ]
