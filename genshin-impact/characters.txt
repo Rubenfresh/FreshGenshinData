@@ -1232,7 +1232,7 @@
         "weapon": "Polearm",
         "region": "Natlan",
         "modelType": "Short Female",
-        "birthDay": "2025-03-26T01:57:01.832Z",
+        "birthDay": "2024-11-15",
         "bannerType": "limited"
     },
     {
@@ -1245,7 +1245,7 @@
         "weapon": "Catalyst",
         "region": "Natlan",
         "modelType": "Medium Female",
-        "birthDay": "2025-03-26T01:57:01.832Z",
+        "birthDay": "2024-8-8",
         "bannerType": "limited"
     }
 ]
