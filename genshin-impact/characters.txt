@@ -1239,7 +1239,7 @@
         "id": 96,
         "rating": 5,
         "name": "Varesa",
-        "image": "https://i.imgur.com/iSK2wmX.png",
+        "image": "https://i.imgur.com/6VI4cxc.png",
         "wlImage": "https://i.imgur.com/2yKQfHq.png",
         "element": "Electro",
         "weapon": "Catalyst",
