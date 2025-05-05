@@ -1247,5 +1247,32 @@
         "modelType": "Medium Female",
         "birthDay": "2024-8-8",
         "bannerType": "limited"
+    },
+    {
+        "id": 97,
+        "rating": 4,
+        "name": "Ifa",
+        "image": "https://i.imgur.com/RFvkISh.png",
+        "wlImage": "https://i.imgur.com/q1YuMf7.png",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "region": "Natlan",
+        "modelType": "Tall Male",
+        "birthDay": "2025-05-05T22:03:11.619Z",
+        "bannerType": "limited"
+    },
+    {
+        "id": 98,
+        "rating": 5,
+        "name": "Escoffier",
+        "image": "https://i.imgur.com/xBSCDzW.png",
+        "wlImage": "https://i.imgur.com/LhVhVoF.png",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "region": "Fontaine",
+        "modelType": "Medium Female",
+        "birthDay": "2025-05-05T22:03:11.619Z",
+        "bannerType": "limited"
     }
+
 ]
