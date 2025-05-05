@@ -2513,5 +2513,46 @@
                 ]
             }
         ]
-    }
+    },
+{
+    "number": 5.6,
+    "date": "2025-05-07",
+    "image": "https://i.imgur.com/EaN5k5Z.jpeg",
+    "banners": [
+        {
+            "characters": [
+                97,
+                98
+            ]
+        },
+        {
+            "characters": [
+                76,
+                98
+            ]
+        },
+        {
+            "characters": [
+                87
+            ]
+        },
+        {
+            "characters": [
+                39
+            ]
+        },
+        {
+            "characters": [
+                40,
+                47,
+                34,
+                36,
+                46,
+                42,
+                33,
+                79
+            ]
+        }
+    ]
+}
 ]
