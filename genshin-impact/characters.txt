@@ -1252,7 +1252,7 @@
         "id": 97,
         "rating": 4,
         "name": "Ifa",
-        "image": "https://i.imgur.com/5oDEzm9.png",
+        "image": "https://i.imgur.com/xt5bdV0.png",
         "wlImage": "https://i.imgur.com/q1YuMf7.png",
         "element": "Anemo",
         "weapon": "Catalyst",
