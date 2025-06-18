@@ -1258,7 +1258,7 @@
         "weapon": "Catalyst",
         "region": "Natlan",
         "modelType": "Tall Male",
-        "birthDay": "2025-05-05T22:03:11.619Z",
+        "birthDay": "2024-3-23",
         "bannerType": "limited"
     },
     {
@@ -1271,7 +1271,33 @@
         "weapon": "Polearm",
         "region": "Fontaine",
         "modelType": "Medium Female",
-        "birthDay": "2025-05-05T22:03:11.619Z",
+        "birthDay": "2024-6-8",
+        "bannerType": "limited"
+    },
+    {
+        "id": 99,
+        "rating": 4,
+        "name": "Judge",
+        "image": "https://i.imgur.com/Ab4kTey.png",
+        "wlImage": "https://i.imgur.com/Ab4kTey.png",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Mondstadt",
+        "modelType": "Medium Male",
+        "birthDay": "2024-5-25",
+        "bannerType": "limited"
+    },
+    {
+        "id": 100,
+        "rating": 5,
+        "name": "Skirk",
+        "image": "https://i.imgur.com/8RGPyKG.png",
+        "wlImage": "https://i.imgur.com/8RGPyKG.png",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Snezhnaya",
+        "modelType": "Medium Female",
+        "birthDay": "2024-11-5",
         "bannerType": "limited"
     }
 
