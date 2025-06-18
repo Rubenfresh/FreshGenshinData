@@ -2563,5 +2563,40 @@
             ]
         }
     ]
-}
+},
+[
+    {
+        "number": 5.7,
+        "date": "2025-06-18T00:00:00.000Z",
+        "image": "https://i.imgur.com/BS70TV4.jpeg",
+        "banners": [
+            {
+                "characters": [
+                    100,
+                    99,
+54,
+22
+                ]
+            },
+            {
+                "characters": [
+                    44,
+                    99,
+54,
+22
+                ]
+            },
+            {
+                "characters": [
+                    84
+                ]
+            },
+            {
+                "characters": [
+                    92
+                ]
+            }
+        ]
+    }
+]
 ]
