@@ -2588,15 +2588,45 @@
             },
             {
                 "characters": [
-                    84
+                    84,20,62,95
+
                 ]
             },
             {
                 "characters": [
-                    92
+                    92,20,62,95
+                ]
+            }
+        ]
+    },
+
+    {
+        "number": 5.8,
+        "date": "2025-07-28T00:00:00.000Z",
+        "image": "https://i.imgur.com/S49OTTd.jpeg",
+        "banners": [
+            {
+                "characters": [
+                    101,81,21,7
+                ]
+            },
+            {
+                "characters": [
+                    93,81,21,7
+                ]
+            },
+            {
+                "characters": [
+                    86
+                ]
+            },
+            {
+                "characters": [
+                    90
                 ]
             }
         ]
     }
+
 
 ]
