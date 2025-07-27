@@ -1299,6 +1299,20 @@
         "modelType": "Medium Female",
         "birthDay": "2024-11-5",
         "bannerType": "limited"
+    },
+    {
+        "id": 101,
+        "rating": 5,
+        "name": "Ineffa",
+        "image": "https://i.imgur.com/LbBTqdV.png",
+        "wlImage": "https://i.imgur.com/z7Y8ThK.png",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Snezhnaya",
+        "modelType": "Medium Female",
+        "birthDay": "2024-4-2",
+        "bannerType": "limited"
     }
+]
 
 ]
