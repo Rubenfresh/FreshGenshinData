@@ -1314,5 +1314,3 @@
         "bannerType": "limited"
     }
 ]
-
-]
