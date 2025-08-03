@@ -10,7 +10,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-8-10",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 2,
@@ -23,7 +24,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-7-5",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 3,
@@ -36,7 +38,8 @@
         "region": "Liyue",
         "modelType": "Tall Female",
         "birthDay": "2024-2-14",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 4,
@@ -49,7 +52,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-2-29",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 5,
@@ -62,7 +66,8 @@
         "region": "Liyue",
         "modelType": "Medium Male",
         "birthDay": "2024-9-7",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 6,
@@ -75,7 +80,8 @@
         "region": "Mondstadt",
         "modelType": "Tall Male",
         "birthDay": "2024-4-30",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 7,
@@ -101,7 +107,8 @@
         "region": "Mondstadt",
         "modelType": "Tall Female",
         "birthDay": "2024-3-14",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 9,
@@ -114,7 +121,8 @@
         "region": "Mondstadt",
         "modelType": "Tall Male",
         "birthDay": "2024-11-30",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 10,
@@ -127,7 +135,8 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-11-20",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 11,
@@ -140,7 +149,8 @@
         "region": "Mondstadt",
         "modelType": "Short Female",
         "birthDay": "2024-7-27",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 12,
@@ -153,7 +163,8 @@
         "region": "Mondstadt",
         "modelType": "Tall Female",
         "birthDay": "2024-6-9",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 13,
@@ -166,7 +177,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-8-31",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 14,
@@ -179,7 +191,8 @@
         "region": "Liyue",
         "modelType": "Tall Female",
         "birthDay": "2024-8-26",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 15,
@@ -192,7 +205,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-3-21",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 16,
@@ -205,7 +219,8 @@
         "region": "Liyue",
         "modelType": "Short Female",
         "birthDay": "2024-3-3",
-        "bannerType": "standard"
+        "bannerType": "standard",
+        "og":true,
     },
     {
         "id": 17,
@@ -218,7 +233,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-9-9",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 18,
@@ -231,7 +247,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-11-26",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 19,
@@ -244,7 +261,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Male",
         "birthDay": "2024-6-16",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 20,
@@ -257,7 +275,8 @@
         "region": "Liyue",
         "modelType": "Medium Female",
         "birthDay": "2024-11-2",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 21,
@@ -270,7 +289,8 @@
         "region": "Liyue",
         "modelType": "Medium Male",
         "birthDay": "2024-10-9",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true,
     },
     {
         "id": 22,
@@ -1314,6 +1334,7 @@
         "bannerType": "limited"
     }
 ]
+
 
 
 
