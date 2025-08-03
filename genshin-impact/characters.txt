@@ -11,7 +11,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-8-10",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 2,
@@ -25,7 +25,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-7-5",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 3,
@@ -39,7 +39,7 @@
         "modelType": "Tall Female",
         "birthDay": "2024-2-14",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 4,
@@ -53,7 +53,7 @@
         "modelType": "Medium Male",
         "birthDay": "2024-2-29",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 5,
@@ -67,7 +67,7 @@
         "modelType": "Medium Male",
         "birthDay": "2024-9-7",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 6,
@@ -81,7 +81,7 @@
         "modelType": "Tall Male",
         "birthDay": "2024-4-30",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 7,
@@ -94,7 +94,8 @@
         "region": "Mondstadt",
         "modelType": "Medium Female",
         "birthDay": "2024-5-27",
-        "bannerType": "limited"
+        "bannerType": "limited",
+        "og":true
     },
     {
         "id": 8,
@@ -108,7 +109,7 @@
         "modelType": "Tall Female",
         "birthDay": "2024-3-14",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 9,
@@ -122,7 +123,7 @@
         "modelType": "Tall Male",
         "birthDay": "2024-11-30",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 10,
@@ -136,7 +137,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-11-20",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 11,
@@ -150,7 +151,7 @@
         "modelType": "Short Female",
         "birthDay": "2024-7-27",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 12,
@@ -164,7 +165,7 @@
         "modelType": "Tall Female",
         "birthDay": "2024-6-9",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 13,
@@ -178,7 +179,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-8-31",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 14,
@@ -192,7 +193,7 @@
         "modelType": "Tall Female",
         "birthDay": "2024-8-26",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 15,
@@ -206,7 +207,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-3-21",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 16,
@@ -220,7 +221,7 @@
         "modelType": "Short Female",
         "birthDay": "2024-3-3",
         "bannerType": "standard",
-        "og":true,
+        "og":true
     },
     {
         "id": 17,
@@ -234,7 +235,7 @@
         "modelType": "Medium Male",
         "birthDay": "2024-9-9",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 18,
@@ -248,7 +249,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-11-26",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 19,
@@ -262,7 +263,7 @@
         "modelType": "Medium Male",
         "birthDay": "2024-6-16",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 20,
@@ -276,7 +277,7 @@
         "modelType": "Medium Female",
         "birthDay": "2024-11-2",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 21,
@@ -290,7 +291,7 @@
         "modelType": "Medium Male",
         "birthDay": "2024-10-9",
         "bannerType": "limited",
-        "og":true,
+        "og":true
     },
     {
         "id": 22,
@@ -1334,6 +1335,7 @@
         "bannerType": "limited"
     }
 ]
+
 
 
 
