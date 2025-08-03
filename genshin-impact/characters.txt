@@ -475,7 +475,7 @@
         "wlImage": "",
         "element": "Cryo",
         "weapon": "Bow",
-        "region": "Descender",
+        "region": "Outlander",
         "modelType": "Medium Female",
         "maxConstellation": 0,
         "birthDay": "2024-4-4",
@@ -1314,5 +1314,6 @@
         "bannerType": "limited"
     }
 ]
+
 
 
