@@ -1295,7 +1295,7 @@
         "wlImage": "https://i.imgur.com/8RGPyKG.png",
         "element": "Cryo",
         "weapon": "Sword",
-        "region": "Snezhnaya",
+        "region": "Outlander",
         "modelType": "Medium Female",
         "birthDay": "2024-11-5",
         "bannerType": "limited"
@@ -1308,9 +1308,10 @@
         "wlImage": "https://i.imgur.com/z7Y8ThK.png",
         "element": "Electro",
         "weapon": "Polearm",
-        "region": "Snezhnaya",
+        "region": "NodKrai",
         "modelType": "Medium Female",
         "birthDay": "2024-4-2",
         "bannerType": "limited"
     }
 ]
+
