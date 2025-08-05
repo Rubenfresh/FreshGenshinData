@@ -1325,7 +1325,7 @@
         "id": 101,
         "rating": 5,
         "name": "Ineffa",
-        "image": "https://i.imgur.com/LbBTqdV.png",
+        "image": "https://i.imgur.com/TkyGo2O.png",
         "wlImage": "https://i.imgur.com/z7Y8ThK.png",
         "element": "Electro",
         "weapon": "Polearm",
@@ -1335,6 +1335,7 @@
         "bannerType": "limited"
     }
 ]
+
 
 
 
