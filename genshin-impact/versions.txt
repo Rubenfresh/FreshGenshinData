@@ -2772,54 +2772,52 @@
       }
     ]
   },
-  [
-    {
-      "number": 6,
-      "name": "Luna I",
-      "date": "2025-09-10T00:00:00.000Z",
-      "image": "https://i.imgur.com/pUoTwWO.jpeg",
-      "opacity": 0.45,
-      "banners": [
-        {
-          "characters": [
-            103,
-            102
-          ]
-        },
-        {
-          "characters": [
-            58,
-            102
-          ]
-        },
-        {
-          "characters": [
-            104
-          ]
-        },
-        {
-          "characters": [
-            49
-          ]
-        },
-        {
-          "characters": [
-            55,
-            60,
-            61,
-            56,
-            53,
-            63,
-            51,
-            52,
-            54,
-            57,
-            59,
-            66,
-            81
-          ]
-        }
-      ]
-    }
-  ]
+  {
+    "number": 6,
+    "name": "Luna I",
+    "date": "2025-09-10T00:00:00.000Z",
+    "image": "https://i.imgur.com/pUoTwWO.jpeg",
+    "opacity": 0.45,
+    "banners": [
+      {
+        "characters": [
+          103,
+          102
+        ]
+      },
+      {
+        "characters": [
+          58,
+          102
+        ]
+      },
+      {
+        "characters": [
+          104
+        ]
+      },
+      {
+        "characters": [
+          49
+        ]
+      },
+      {
+        "characters": [
+          55,
+          60,
+          61,
+          56,
+          53,
+          63,
+          51,
+          52,
+          54,
+          57,
+          59,
+          66,
+          81
+        ]
+      }
+    ]
+  }
 ]
