@@ -1017,7 +1017,7 @@
         "wlImage": "https://i.imgur.com/POjOFI2.png",
         "element": "Pyro",
         "weapon": "Claymore",
-        "region": "Fontaine",
+        "region": "Liyue",
         "modelType": "Medium Male",
         "birthDay": "2024-12-22",
         "bannerType": "limited"
@@ -1335,6 +1335,7 @@
         "bannerType": "limited"
     }
 ]
+
 
 
 
