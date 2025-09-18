@@ -1338,7 +1338,7 @@
     "id": 102,
     "rating": 4,
     "name": "Aino",
-    "image": "https://i.imgur.com/vYvgvyo.png",
+    "image": "https://i.imgur.com/fWikFIv.png",
     "wlImage": "https://i.imgur.com/I7NvyMk.png",
     "element": "Hydro",
     "weapon": "Claymore",
@@ -1351,7 +1351,7 @@
     "id": 103,
     "rating": 5,
     "name": "Lauma",
-    "image": "https://i.imgur.com/7jrF7Wx.png",
+    "image": "https://i.imgur.com/XqVTJ53.png",
     "wlImage": "https://i.imgur.com/80J9FLi.png",
     "element": "Dendro",
     "weapon": "Catalyst",
@@ -1364,7 +1364,7 @@
     "id": 104,
     "rating": 5,
     "name": "Flins",
-    "image": "https://i.imgur.com/JVm8iIU.png",
+    "image": "https://i.imgur.com/bAjlof3.png",
     "wlImage": "https://i.imgur.com/KjWsSul.png",
     "element": "Electro",
     "weapon": "Polearm",
@@ -1374,3 +1374,4 @@
     "bannerType": "limited"
   }
 ]
+
