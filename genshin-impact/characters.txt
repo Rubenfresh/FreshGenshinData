@@ -1370,7 +1370,7 @@
     "weapon": "Polearm",
     "region": "Nod-Krai",
     "modelType": "Tall Male",
-    "birthDay": "2024-9-31",
+    "birthDay": "2024-10-31",
     "bannerType": "limited"
   },
   {
@@ -1387,5 +1387,6 @@
       "bannerType": "limited"
   }
 ]
+
 
 
