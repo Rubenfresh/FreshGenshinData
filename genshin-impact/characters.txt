@@ -1344,7 +1344,7 @@
     "weapon": "Claymore",
     "region": "Nod-Krai",
     "modelType": "Short Female",
-    "birthDay": "2025-08-31T22:44:32.101Z",
+    "birthDay": "2024-9-21",
     "bannerType": "limited"
   },
   {
@@ -1357,7 +1357,7 @@
     "weapon": "Catalyst",
     "region": "Nod-Krai",
     "modelType": "Tall Female",
-    "birthDay": "2024-03-01T00:00:00.000Z",
+    "birthDay": "2024-03-01",
     "bannerType": "limited"
   },
   {
@@ -1370,8 +1370,22 @@
     "weapon": "Polearm",
     "region": "Nod-Krai",
     "modelType": "Tall Male",
-    "birthDay": "2024-10-31T00:00:00.000Z",
+    "birthDay": "2024-9-31",
     "bannerType": "limited"
+  },
+  {
+      "id": 105,
+      "rating": 5,
+      "name": "Neffer",
+      "image": "https://i.imgur.com/KZyiDF2.png",
+      "wlImage": "https://i.imgur.com/0Krp9c7.png",
+      "element": "Dendro",
+      "weapon": "Catalyst",
+      "region": "Nod-Krai",
+      "modelType": "Tall Female",
+      "birthDay": "2025-10-22",
+      "bannerType": "limited"
   }
 ]
+
 
