@@ -1376,8 +1376,8 @@
   {
       "id": 105,
       "rating": 5,
-      "name": "Neffer",
-      "image": "https://i.imgur.com/KZyiDF2.png",
+      "name": "Nefer",
+      "image": "https://i.imgur.com/e2D45jD.png",
       "wlImage": "https://i.imgur.com/0Krp9c7.png",
       "element": "Dendro",
       "weapon": "Catalyst",
@@ -1387,6 +1387,7 @@
       "bannerType": "limited"
   }
 ]
+
 
 
 
