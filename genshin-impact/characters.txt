@@ -1383,10 +1383,37 @@
       "weapon": "Catalyst",
       "region": "Nod-Krai",
       "modelType": "Tall Female",
-      "birthDay": "2025-10-22",
+      "birthDay": "2025-05-09",
+      "bannerType": "limited"
+  },
+  {
+      "id": 106,
+      "rating": 4,
+      "name": "Jahoda",
+      "image": "https://i.imgur.com/Oiu7YU0.png",
+      "wlImage": "https://i.imgur.com/7TS7ouY.png",
+      "element": "Anemo",
+      "weapon": "Bow",
+      "region": "Nod-Krai",
+      "modelType": "Medium Female",
+      "birthDay": "2025-01-01",
+      "bannerType": "limited"
+  },
+  {
+      "id": 107,
+      "rating": 5,
+      "name": "Durin",
+      "image": "https://i.imgur.com/fJUM5Ut.png",
+      "wlImage": "https://i.imgur.com/uXppEnV.png",
+      "element": "Pyro",
+      "weapon": "Sword",
+      "region": "Mondstadt",
+      "modelType": "Medium Male",
+      "birthDay": "2025-01-01",
       "bannerType": "limited"
   }
 ]
+
 
 
 
