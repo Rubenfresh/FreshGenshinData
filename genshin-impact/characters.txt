@@ -1403,7 +1403,7 @@
       "id": 107,
       "rating": 5,
       "name": "Durin",
-      "image": "https://i.imgur.com/fJUM5Ut.png",
+      "image": "https://i.imgur.com/zmfaLNy.png",
       "wlImage": "https://i.imgur.com/uXppEnV.png",
       "element": "Pyro",
       "weapon": "Sword",
@@ -1413,6 +1413,7 @@
       "bannerType": "limited"
   }
 ]
+
 
 
 
