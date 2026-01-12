@@ -1411,8 +1411,49 @@
       "modelType": "Medium Male",
       "birthDay": "2025-01-01",
       "bannerType": "limited"
-  }
+  },
+    {
+        "id": 108,
+        "rating": 4,
+        "name": "Illuga",
+        "image": "https://i.imgur.com/nWPOA57.png",
+        "wlImage": "https://i.imgur.com/5HduvmO.png",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "region": "Nod-Krai",
+        "modelType": "Medium Male",
+        "birthDay": "2026-01-12T21:00:43.210Z",
+        "bannerType": "limited"
+    },
+    {
+        "id": 109,
+        "rating": 5,
+        "name": "Columbina",
+        "image": "https://i.imgur.com/ZgzDCUQ.png",
+        "wlImage": "https://i.imgur.com/FXcAXBD.png",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "region": "Nod-Krai",
+        "modelType": "Medium Female",
+        "birthDay": "2026-01-12T21:00:43.210Z",
+        "bannerType": "limited"
+    },
+    {
+        "id": 110,
+        "rating": 5,
+        "name": "Zibai",
+        "image": "https://i.imgur.com/Ql241xx.png",
+        "wlImage": "https://i.imgur.com/aINQ6VA.png",
+        "element": "Geo",
+        "weapon": "Sword",
+        "region": "Liyue",
+        "modelType": "Tall Female",
+        "birthDay": "2026-01-12T21:00:43.210Z",
+        "bannerType": "limited"
+    }
+
 ]
+
 
 
 
