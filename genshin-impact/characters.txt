@@ -1302,7 +1302,7 @@
     "image": "https://i.imgur.com/tlzME3G.png",
     "wlImage": "https://i.imgur.com/Ab4kTey.png",
     "element": "Hydro",
-    "weapon": "Catalyst",
+    "weapon": "Sword",
     "region": "Mondstadt",
     "modelType": "Medium Male",
     "birthDay": "2024-5-25",
@@ -1453,6 +1453,7 @@
     }
 
 ]
+
 
 
 
