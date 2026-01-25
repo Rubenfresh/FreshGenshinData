@@ -1416,7 +1416,7 @@
         "id": 108,
         "rating": 4,
         "name": "Illuga",
-        "image": "https://i.imgur.com/nWPOA57.png",
+        "image": "https://i.imgur.com/mk27DAx.png",
         "wlImage": "https://i.imgur.com/5HduvmO.png",
         "element": "Geo",
         "weapon": "Polearm",
@@ -1442,7 +1442,7 @@
         "id": 110,
         "rating": 5,
         "name": "Zibai",
-        "image": "https://i.imgur.com/Ql241xx.png",
+        "image": "https://i.imgur.com/34Ydm5R.png",
         "wlImage": "https://i.imgur.com/aINQ6VA.png",
         "element": "Geo",
         "weapon": "Sword",
@@ -1453,6 +1453,7 @@
     }
 
 ]
+
 
 
 
