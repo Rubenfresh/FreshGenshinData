@@ -1409,7 +1409,7 @@
       "weapon": "Sword",
       "region": "Mondstadt",
       "modelType": "Medium Male",
-      "birthDay": "2025-01-14",
+      "birthDay": "2025-03-14",
       "bannerType": "limited"
   },
     {
@@ -1465,6 +1465,7 @@
       "bannerType": "limited"
     }
 ]
+
 
 
 
