@@ -1396,7 +1396,7 @@
       "weapon": "Bow",
       "region": "Nod-Krai",
       "modelType": "Medium Female",
-      "birthDay": "2025-01-01",
+      "birthDay": "2025-01-05",
       "bannerType": "limited"
   },
   {
@@ -1409,7 +1409,7 @@
       "weapon": "Sword",
       "region": "Mondstadt",
       "modelType": "Medium Male",
-      "birthDay": "2025-01-01",
+      "birthDay": "2025-01-14",
       "bannerType": "limited"
   },
     {
@@ -1422,7 +1422,7 @@
         "weapon": "Polearm",
         "region": "Nod-Krai",
         "modelType": "Medium Male",
-        "birthDay": "2026-01-12T21:00:43.210Z",
+        "birthDay": "2025-12-23",
         "bannerType": "limited"
     },
     {
@@ -1435,7 +1435,7 @@
         "weapon": "Catalyst",
         "region": "Nod-Krai",
         "modelType": "Medium Female",
-        "birthDay": "2026-01-12T21:00:43.210Z",
+        "birthDay": "2025-01-14",
         "bannerType": "limited"
     },
     {
@@ -1448,11 +1448,24 @@
         "weapon": "Sword",
         "region": "Liyue",
         "modelType": "Tall Female",
-        "birthDay": "2026-01-12T21:00:43.210Z",
+        "birthDay": "2025-05-15",
         "bannerType": "limited"
+    },
+    {
+      "id": 111,
+      "rating": 5,
+      "name": "Varka",
+      "image": "https://i.imgur.com/I91vaPg.png",
+      "wlImage": "https://i.imgur.com/7IU8Mzd.png",
+      "element": "Anemo",
+      "weapon": "Claymore",
+      "region": "Mondstadt",
+      "modelType": "Tall Male",
+      "birthDay": "2025-02-17",
+      "bannerType": "limited"
     }
-
 ]
+
 
 
 
