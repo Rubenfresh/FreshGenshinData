@@ -415,7 +415,7 @@
     "rating": 5,
     "name": "Eula",
     "image": "https://i.ibb.co/9pcqFmY/eula.png",
-    "wlImage": "https://i.imgur.com/RUwQbjZ.png",
+    "wlImage": "https://i.imgur.com/NE6vBIs.png",
     "element": "Cryo",
     "weapon": "Claymore",
     "region": "Mondstadt",
