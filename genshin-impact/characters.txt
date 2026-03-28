@@ -1463,6 +1463,19 @@
       "modelType": "Tall Male",
       "birthDay": "2025-02-17",
       "bannerType": "limited"
+    },
+    {
+      "id": 112,
+      "rating": 5,
+      "name": "Linnea",
+      "image": "https://i.imgur.com/lfym5Dg.png",
+      "wlImage": "https://i.imgur.com/pyAYpU9.png",
+      "element": "Geo",
+      "weapon": "Bow",
+      "region": "Nod-Krai",
+      "modelType": "Medium Female",
+      "birthDay": "2024-05-23",
+      "bannerType": "limited"
     }
 ]
 
