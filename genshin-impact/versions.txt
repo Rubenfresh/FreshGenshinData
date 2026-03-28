@@ -2998,6 +2998,48 @@
       ]
     }
   ]
+},
+{
+  "number": 6.5,
+  "name": "Luna VI",
+  "date": "2026-04-08",
+  "image": "https://i.imgur.com/PPtTyBR.jpeg",
+  "opacity": 0.6,
+  "banners": [
+    {
+      "characters": [
+        112
+      ]
+    },
+    {
+      "characters": [
+        90
+      ]
+    },
+    {
+      "characters": [
+        103
+      ]
+    },
+    {
+      "characters": [
+        105
+      ]
+    },
+    {
+      "characters": [
+        70,
+        82,
+        83,
+        76,
+        84,
+        75,
+        73,
+        69,
+        68
+      ]
+    }
+  ]
 }
 
 ]
