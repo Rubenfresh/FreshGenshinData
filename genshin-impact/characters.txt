@@ -1468,7 +1468,7 @@
       "id": 112,
       "rating": 5,
       "name": "Linnea",
-      "image": "https://i.imgur.com/lfym5Dg.png",
+      "image": "https://i.imgur.com/JW9AuDT.png",
       "wlImage": "https://i.imgur.com/pyAYpU9.png",
       "element": "Geo",
       "weapon": "Bow",
