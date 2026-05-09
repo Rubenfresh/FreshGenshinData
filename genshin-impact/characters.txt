@@ -1476,7 +1476,47 @@
       "modelType": "Medium Female",
       "birthDay": "2024-05-23",
       "bannerType": "limited"
-    }
+    },
+  {
+    "id": 113,
+    "rating": 4,
+    "name": "Prune",
+    "image": "https://i.imgur.com/AuUNFV0.png",
+    "wlImage": "https://i.imgur.com/AuUNFV0.png",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "region": "Outlander",
+    "modelType": "Short Female",
+    "birthDay": "2024-11-20",
+    "bannerType": "limited"
+  },
+  {
+    "id": 114,
+    "rating": 5,
+    "name": "Nicole",
+    "image": "https://i.imgur.com/lYPjjKz.png",
+    "wlImage": "https://i.imgur.com/ZISV3Yt.png",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "region": "Outlander",
+    "modelType": "Medium Female",
+    "birthDay": "2024-09-29",
+    "bannerType": "limited"
+  },
+  {
+    "id": 115,
+    "rating": 5,
+    "name": "Lohen",
+    "image": "https://i.imgur.com/QhA1nLz.png",
+    "wlImage": "https://i.imgur.com/QhA1nLz.png",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "region": "Mondstadt",
+    "modelType": "Medium Male",
+    "birthDay": "2024-04-03",
+    "bannerType": "limited"
+  }
+
 ]
 
 
