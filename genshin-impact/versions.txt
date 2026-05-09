@@ -3036,6 +3036,37 @@
       ]
     }
   ]
+},
+{
+  "number": 6.6,
+  "name": "Luna VII",
+  "date": "2026-05-20",
+  "image": "https://i.imgur.com/LFJ9E7Z.jpeg",
+  "opacity": 0.7,
+  "banners": [
+    {
+      "characters": [
+        114,
+        113
+      ]
+    },
+    {
+      "characters": [
+        107,
+        113
+      ]
+    },
+    {
+      "characters": [
+        115
+      ]
+    },
+    {
+      "characters": [
+        92
+      ]
+    }
+  ]
 }
 
 ]
