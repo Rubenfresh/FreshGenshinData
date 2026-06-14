@@ -1485,7 +1485,7 @@
     "wlImage": "https://i.imgur.com/AuUNFV0.png",
     "element": "Anemo",
     "weapon": "Catalyst",
-    "region": "Outlander",
+    "region": "Mondstadt",
     "modelType": "Short Female",
     "birthDay": "2024-11-20",
     "bannerType": "limited"
@@ -1498,7 +1498,7 @@
     "wlImage": "https://i.imgur.com/ZISV3Yt.png",
     "element": "Pyro",
     "weapon": "Catalyst",
-    "region": "Outlander",
+    "region": "Mondstadt",
     "modelType": "Medium Female",
     "birthDay": "2024-09-29",
     "bannerType": "limited"
