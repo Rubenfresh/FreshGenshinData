@@ -3027,6 +3027,7 @@
       ]
     },
     {
+      "name": "Chronicled",
       "characters": [
         70,
         82,
@@ -3064,6 +3065,46 @@
     {
       "characters": [
         92,20,4,64
+      ]
+    }
+  ]
+},
+
+{
+  "number": 6.7,
+  "name": "Luna VIII",
+  "date": "2026-07-01",
+  "image": "https://i.imgur.com/GWx4zyT.jpeg",
+  "opacity": 0.7,
+  "banners": [
+    {
+      "characters": [
+        116
+      ]
+    },
+    {
+      "characters": [
+        93
+      ]
+    },
+    {
+      "characters": [
+        39
+      ]
+    },
+    {
+      "characters": [
+        109
+      ]
+    },
+    {
+      "name": "Lightrace",
+      "characters": [
+        16,
+        72,
+        46,
+        55,
+        94
       ]
     }
   ]
