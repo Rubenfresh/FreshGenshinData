@@ -1515,7 +1515,20 @@
     "modelType": "Medium Male",
     "birthDay": "2024-04-03",
     "bannerType": "limited"
-  }
+  },
+{
+  "id": 116,
+  "rating": 5,
+  "name": "Sandrone",
+  "image": "https://i.imgur.com/Fxijd4O.png",
+  "wlImage": "https://i.imgur.com/5qF3TUz.png",
+  "element": "Cryo",
+  "weapon": "Claymore",
+  "region": "Snezhnaya",
+  "modelType": "Medium Female",
+  "birthDay": "2024-01-13",
+  "bannerType": "limited"
+}
 
 ]
 
