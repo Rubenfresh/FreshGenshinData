@@ -1510,7 +1510,7 @@
     "image": "https://i.imgur.com/QhA1nLz.png",
     "wlImage": "https://i.imgur.com/QhA1nLz.png",
     "element": "Cryo",
-    "weapon": "Sword",
+    "weapon": "Polearm",
     "region": "Mondstadt",
     "modelType": "Medium Male",
     "birthDay": "2024-04-03",
@@ -1528,8 +1528,33 @@
   "modelType": "Medium Female",
   "birthDay": "2024-01-13",
   "bannerType": "limited"
-}
-
+},
+    {
+        "id": 117,
+        "rating": 4,
+        "name": "Alyosha",
+        "image": "https://i.imgur.com/xIHSrk9.png",
+        "wlImage": "https://i.imgur.com/n4uxvhL.png",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "region": "Snezhnaya",
+        "modelType": "Medium Male",
+        "birthDay": "2024-01-01",
+        "bannerType": "limited"
+    },
+    {
+        "id": 118,
+        "rating": 5,
+        "name": "Odette",
+        "image": "https://i.imgur.com/r2U4i3A.png",
+        "wlImage": "https://i.imgur.com/n4uxvhL.png",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "region": "Snezhnaya",
+        "modelType": "Medium Female",
+        "birthDay": "2024-01-01",
+        "bannerType": "limited"
+    }
 ]
 
 
