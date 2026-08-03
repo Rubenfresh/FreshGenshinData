@@ -3107,7 +3107,37 @@
         94
       ]
     }
-  ]
+  ],
+{
+    "number": 7,
+    "date": "2026-08-12",
+    "image": "https://i.imgur.com/EI7pF9m.png",
+    "opacity": 0.7,
+    "banners": [
+        {
+            "characters": [
+                118,
+                117
+            ]
+        },
+        {
+            "characters": [
+                80,
+                117
+            ]
+        },
+        {
+            "characters": [
+                101
+            ]
+        },
+        {
+            "characters": [
+                104
+            ]
+        }
+    ]
+}
 }
 
 ]
