@@ -2988,6 +2988,7 @@
       ]
     },
     {
+      "name": "Chronicled",
       "characters": [
         31,
         11,
