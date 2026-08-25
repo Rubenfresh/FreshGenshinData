@@ -1546,7 +1546,7 @@
         "id": 118,
         "rating": 5,
         "name": "Odette",
-        "image": "https://i.imgur.com/bVsCMTR.png",
+        "image": "https://i.imgur.com/s0dlADR.png",
         "wlImage": "https://i.imgur.com/n4uxvhL.png",
         "element": "Cryo",
         "weapon": "Sword",
