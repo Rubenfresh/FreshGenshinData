@@ -1559,7 +1559,7 @@
     "id": 119,
     "rating": 5,
     "name": "Vesna",
-    "image": "https://i.imgur.com/uGJFnyE.png",
+    "image": "https://i.imgur.com/7XjoJqd.png",
     "wlImage": "https://i.imgur.com/JBkxfDm.png",
     "element": "Anemo",
     "weapon": "Sword",
