@@ -1591,7 +1591,7 @@
         "weapon": "Catalyst",
         "region": "Snezhnaya",
         "modelType": "Tall Male",
-        "birthDay": "2024-01-01T00:00:00.000Z",
+        "birthDay": "2024-03-24",
         "bannerType": "limited"
     },
     {
@@ -1604,7 +1604,7 @@
         "weapon": "Claymore",
         "region": "Snezhnaya",
         "modelType": "Medium Male",
-        "birthDay": "2024-01-01T00:00:00.000Z",
+        "birthDay": "2024-02-08",
         "bannerType": "limited"
     }
 ]
