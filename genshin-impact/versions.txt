@@ -3169,7 +3169,47 @@
       ]
     }
   ]
-}
+},
+    {
+        "number": 7.2,
+        "date": "2026-11-04",
+        "image": "https://i.imgur.com/QJL6jCb.jpeg",
+        "opacity": 0.4,
+        "banners": [
+            {
+                "characters": [
+                    122,
+                    121
+                ]
+            },
+            {
+                "characters": [
+                    74,
+                    121
+                ]
+            },
+            {
+                "characters": [
+                    110
+                ]
+            },
+            {
+                "characters": [
+                    112
+                ]
+            },
+            {
+                "name": "Chronicled",
+                "characters": [
+                    87,
+                    86,
+                    96,
+                    88,
+                    90
+                ]
+            }
+        ]
+    }
 
 ]
 
