@@ -1580,7 +1580,33 @@
     "modelType": "Medium Female",
     "birthDay": "2024-03-29",
     "bannerType": "limited"
-  }
+  },
+    {
+        "id": 121,
+        "rating": 4,
+        "name": "Valeriy",
+        "image": "https://i.imgur.com/8mWebyG.png",
+        "wlImage": "https://i.imgur.com/Y3qvTf3.png",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "region": "Snezhnaya",
+        "modelType": "Tall Male",
+        "birthDay": "2024-01-01T00:00:00.000Z",
+        "bannerType": "limited"
+    },
+    {
+        "id": 122,
+        "rating": 5,
+        "name": "Mitya",
+        "image": "https://i.imgur.com/qmQGp98.png",
+        "wlImage": "https://i.imgur.com/eV4kh4Z.png",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "region": "Snezhnaya",
+        "modelType": "Medium Male",
+        "birthDay": "2024-01-01T00:00:00.000Z",
+        "bannerType": "limited"
+    }
 ]
 
 
